@@ -6,7 +6,7 @@
 
 
 
-_**[GongyeLiu](https://github.com/GongyeLiu), [Menghan Xia*](https://menghanxia.github.io/), [Yong Zhang](https://yzhang2016.github.io), [Haoxin Chen](https://scholar.google.com/citations?user=6UPJSvwAAAAJ&hl=zh-CN&oi=ao), [Jinbo Xing](https://doubiiu.github.io/), <br>[Xintao Wang](https://xinntao.github.io/), [Yujiu Yang*](ttps://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN&oi=ao), [Ying Shan](https://scholar.google.com/citations?hl=en&user=4oXBp9UAAAAJ&view_op=list_works&sortby=pubdate)**_
+_**[GongyeLiu](https://github.com/GongyeLiu), [Menghan Xia*](https://menghanxia.github.io/), [Yong Zhang](https://yzhang2016.github.io), [Haoxin Chen](https://scholar.google.com/citations?user=6UPJSvwAAAAJ&hl=zh-CN&oi=ao), [Jinbo Xing](https://doubiiu.github.io/), <br>[Xintao Wang](https://xinntao.github.io/), [Yujiu Yang*](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN&oi=ao), [Ying Shan](https://scholar.google.com/citations?hl=en&user=4oXBp9UAAAAJ&view_op=list_works&sortby=pubdate)**_
 <br><br>
 (* corresponding authors)
 
@@ -24,8 +24,6 @@ From Tsinghua University and Tencent AI Lab.
 
 <div align="center">
 <img src=docs/showcase_1.gif>
-<img src=docs/showcase_2.gif>
-<img src=docs/showcase_3.gif>
 <p>Style-guided text-to-video results. Resolution: 320 x 512; Frames: 16. (Compressed)</p>
 </div>
 
