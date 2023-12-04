@@ -2,6 +2,7 @@
 
 <div align="center">
 
+ <a href='https://arxiv.org/abs/2312.00330'><img src='https://img.shields.io/badge/arXiv-2312.00330-b31b1b.svg'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href='https://gongyeliu.github.io/StyleCrafter.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
@@ -51,8 +52,18 @@ From Tsinghua University and Tencent AI Lab.
 
 [LongerCrafter](https://github.com/arthur-qiu/LongerCrafter): Tuning-free method for longer high-quality video generation.  
 
-[DynamicCrafter](https://github.com/Doubiiu/DynamiCrafter) Animate open-domain still images to high-quality videos.
+[DynamiCrafter](https://github.com/Doubiiu/DynamiCrafter) Animate open-domain still images to high-quality videos.
 
+
+## 🤗 Citation
+```bib
+@article{liu2023stylecrafter,
+      title={StyleCrafter: Enhancing Stylized Text-to-Video Generation with Style Adapter}, 
+      author={Gongye Liu and Menghan Xia and Yong Zhang and Haoxin Chen and Jinbo Xing and Xintao Wang and Yujiu Yang and Ying Shan},
+      year={2023},
+      journal={arXiv preprint arXiv:2312.00330},
+}
+```
 
 ## 📢 Disclaimer
 We develop this repository for RESEARCH purposes, so it can only be used for personal/research/non-commercial purposes.
