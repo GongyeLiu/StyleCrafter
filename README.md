@@ -88,7 +88,7 @@ sh scripts/run_infer_video.sh
 
 [LongerCrafter](https://github.com/arthur-qiu/LongerCrafter): Tuning-free method for longer high-quality video generation.  
 
-[DynamicCrafter](https://github.com/Doubiiu/DynamiCrafter) Animate open-domain still images to high-quality videos.
+[DynamiCrafter](https://github.com/Doubiiu/DynamiCrafter) Animate open-domain still images to high-quality videos.
 
 
 ## 📢 Disclaimer

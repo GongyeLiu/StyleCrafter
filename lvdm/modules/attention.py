@@ -497,10 +497,7 @@ class CrossAttentionProcessor(nn.Module):
         del q, k
 
         if exists(mask):
-            ## feasible for causal attention mask only
-            max_neg_value = -torch.finfo(sim.dtype).max
-            mask = repeat(mask, 'b i j -> (b h) i j', h=h)
-            sim.masked_fill_(~(mask>0.5), max_neg_value)
+            raise NotImplementedError
 
         # attention, what we cannot get enough of
         sim = sim.softmax(dim=-1)
@@ -676,7 +673,7 @@ class DualCrossAttnProcessor(nn.Module):
             out_style = torch.einsum('b i j, b j d -> b i d', sim_style, v_style)
             out_style = rearrange(out_style, '(b h) n d -> b n (h d)', h=h)
 
-            out = self.norm_text(out) + self.norm_style(out_style) * self.scale
+            out = out + out_style
 
         return attn.to_out(out)
     
@@ -727,16 +724,7 @@ class DualCrossAttnProcessor(nn.Module):
                 .reshape(b, out_style.shape[1], attn.heads * attn.dim_head)
             )
             
-            # rescale_factor = torch.norm(out, p=2, dim=(1, 2)) / (torch.norm(out_style, p=2, dim=(1, 2)) + 1e-6)
-            # rescale_factor = rescale_factor[:, None, None]
-            # out = out + out_style * rescale_factor
-            # out = out + out_style / torch.std(out_style, dim=2).unsqueeze(-1) * torch.std(out, dim=1).squeeze()
-
-            # out2 = out + self.norm_style(out_style)
-            # rescale_factor = torch.norm(out, p=2, dim=(1, 2)) / (torch.norm(out2, p=2, dim=(1, 2)) + 1e-6)
-            # rescale_factor = rescale_factor[:, None, None]
-            # out = out2 * rescale_factor * self.scale
-            out = out + out_style * self.scale
+            out = out + out_style
 
         return attn.to_out(out)
     
@@ -757,12 +745,48 @@ class DualCrossAttnProcessor(nn.Module):
             return self.forward(attn, x, context=context, mask=mask, context_style=context_style, **kwargs)
 
 
-def norm_scale(scale1, scale2, eps=1e-8):
-    scale_norm = torch.rsqrt(scale1 ** 2 + scale2 ** 2 + eps)
-    return scale1 * scale_norm, scale2 * scale_norm
-
 
 class DualCrossAttnProcessorAS(DualCrossAttnProcessor):
+    def forward(self, attn, x, context=None, mask=None, context_style=None, scale_scalar=None, **kwargs):
+        h = attn.heads
+        q = attn.to_q(x)
+        context = default(context, x)
+        k = attn.to_k(context)
+        v = attn.to_v(context)
+
+        q, k, v = map(lambda t: rearrange(t, 'b n (h d) -> (b h) n d', h=h), (q, k, v))
+        sim = torch.einsum('b i d, b j d -> b i j', q, k) * attn.scale
+
+        # attention, what we cannot get enough of
+        sim = sim.softmax(dim=-1)
+
+        out = torch.einsum('b i j, b j d -> b i d', sim, v)
+        out = rearrange(out, '(b h) n d -> b n (h d)', h=h)
+
+        # for another cross attention
+        if context_style is not None:
+            k_style = self.to_k_style(context_style)
+            v_style = self.to_v_style(context_style)
+
+            k_style, v_style = map(lambda t: rearrange(t, 'b n (h d) -> (b h) n d', h=h), (k_style, v_style))
+            sim_style = torch.einsum('b i d, b j d -> b i j', q, k_style)
+            sim_style = sim_style.softmax(dim=-1)
+            out_style = torch.einsum('b i j, b j d -> b i d', sim_style, v_style)
+            out_style = rearrange(out_style, '(b h) n d -> b n (h d)', h=h)
+
+            if scale_scalar is not None:
+                scale = 1 + scale_scalar[:, self.layer_idx]
+                scale = scale[:, None]
+            else:
+                scale = 1.0
+
+            if self.use_norm:
+                out_style = self.norm_style(out_style)
+
+            out = out + scale * out_style * self.scale
+
+        return attn.to_out(out)
+    
     def efficient_forward(self, attn, x, context=None, mask=None, context_style=None, scale_scalar=None, **kwargs):
         q = attn.to_q(x)
         context = default(context, x)
@@ -818,12 +842,6 @@ class DualCrossAttnProcessorAS(DualCrossAttnProcessor):
 
             if self.use_norm:
                 out_style = self.norm_style(out_style)
-            else:
-                with torch.no_grad():
-                    rescale_factor = torch.norm(out, p=2, dim=(1, 2)) / (torch.norm(out_style, p=2, dim=(1, 2)) + 1e-6)
-                    rescale_factor = rescale_factor[:, None, None]
-                    # rescale_factor = torch.norm(out, p=2) / (torch.norm(out_style, p=2) + 1e-6)
-                out_style = rescale_factor.detach() * out_style
             
             out = out + scale * out_style * self.scale
 
