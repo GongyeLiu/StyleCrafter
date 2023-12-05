@@ -1,0 +1,29 @@
+[
+    {
+        "prompt": "A field of sunflowers on a sunny day.",
+        "style_path": "stylepic_single_ref/anime_1.png"
+    },
+    {
+        "prompt": "A wolf walking stealthily through the forest.",
+        "style_path": "stylepic_single_ref/oil_paint_2.jpg"
+    },
+    {
+        "prompt": "A knight riding a horse through a field.",
+        "style_path": "stylepic_single_ref/line_2.jpeg"
+    },
+    {
+        "prompt": "A campfire surrounded by tents.",
+        "style_path": "stylepic_single_ref/digital_art_2.jpeg"
+    },
+    {
+        "prompt": "A river flowing gently under a bridge.",
+        "style_path": [
+            "stylepic_multi_ref/oil_paint/0.jpeg",
+            "stylepic_multi_ref/oil_paint/1.jpeg",
+            "stylepic_multi_ref/oil_paint/2.jpeg",
+            "stylepic_multi_ref/oil_paint/3.jpeg",
+            "stylepic_multi_ref/oil_paint/4.jpeg",
+            "stylepic_multi_ref/oil_paint/5.jpeg"
+        ]
+    }
+]

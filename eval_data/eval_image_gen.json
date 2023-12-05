@@ -1,0 +1,29 @@
+[
+    {
+        "prompt": "A bouquet of flowers in a vase.",
+        "style_path": "stylepic_single_ref/3d_1.png"
+    },
+    {
+        "prompt": "A person jogging along a scenic trail.",
+        "style_path": "stylepic_single_ref/craft_1.png"
+    },
+    {
+        "prompt": "A lighthouse standing tall on a rocky coast.",
+        "style_path": "stylepic_single_ref/digital_art_2.jpeg"
+    },
+    {
+        "prompt": "A rabbit nibbling on a carrot.",
+        "style_path": "stylepic_single_ref/digital_art_1.jpg"
+    },
+    {
+        "prompt": "A rustic windmill in a field.",
+        "style_path": [
+            "stylepic_multi_ref/oil_paint/0.jpeg",
+            "stylepic_multi_ref/oil_paint/1.jpeg",
+            "stylepic_multi_ref/oil_paint/2.jpeg",
+            "stylepic_multi_ref/oil_paint/3.jpeg",
+            "stylepic_multi_ref/oil_paint/4.jpeg",
+            "stylepic_multi_ref/oil_paint/5.jpeg"
+        ]
+    }
+]

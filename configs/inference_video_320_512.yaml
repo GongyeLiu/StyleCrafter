@@ -1,0 +1,122 @@
+model:
+  target: lvdm.models.ddpm3d_cond.T2VFintoneStyleAS
+  params:
+    linear_start: 0.00085
+    linear_end: 0.012
+    num_timesteps_cond: 1
+    log_every_t: 200
+    timesteps: 1000
+    first_stage_key: video
+    cond_stage_key: caption
+    cond_stage_trainable: false
+    conditioning_key: crossattn
+    image_size: [64, 64]
+    channels: 4
+    #monitor: val/loss_simple
+    scale_by_std: false
+    scale_factor: 0.18215
+    # training related
+    use_ema: false
+    uncond_prob: 0.0
+    uncond_type: 'empty_seq'
+
+
+    scheduler_config:
+        target: utils.lr_scheduler.LambdaLRScheduler
+        interval: 'step'
+        frequency: 100
+        params:
+          start_step: 0
+          final_decay_ratio: 0.01
+          decay_steps: 20000
+
+    # train_strategy: 'video_only'
+
+    unet_config:
+      target: lvdm.modules.networks.openaimodel3d.UNetModel
+      params:
+        in_channels: 4
+        out_channels: 4
+        model_channels: 320
+        attention_resolutions: [4, 2, 1]
+        num_res_blocks: 2
+        channel_mult: [1, 2, 4, 4]
+        #num_heads: 8
+        num_head_channels: 64 # need to fix for flash-attn
+        transformer_depth: 1
+        context_dim: 1024
+        use_linear: true
+        use_checkpoint: true
+        temporal_conv: false
+        temporal_attention: true
+        temporal_selfatt_only: true
+        use_relative_position: true
+        use_causal_attention: false
+        temporal_length: 16
+        addition_attention: true
+
+    first_stage_config:
+      target: lvdm.models.autoencoder.AutoencoderKL
+      params:
+        embed_dim: 4
+        monitor: val/rec_loss
+        ddconfig:
+          double_z: true
+          z_channels: 4
+          resolution: 256
+          in_channels: 3
+          out_ch: 3
+          ch: 128
+          ch_mult: [1, 2, 4, 4]
+          num_res_blocks: 2
+          attn_resolutions: []
+          dropout: 0.0
+        lossconfig:
+          target: torch.nn.Identity
+
+    cond_stage_config:
+      target: lvdm.modules.encoders.condition.FrozenOpenCLIPEmbedder
+      params:
+        freeze: true
+        layer: "penultimate"
+        version: checkpoints/open_clip/CLIP-ViT-H-14-laion2B-s32B-b79K/open_clip_pytorch_model.bin
+
+    style_stage_config:
+      target: lvdm.modules.encoders.condition.FrozenOpenCLIPImageEmbedder
+      params:
+        freeze: true
+        version: checkpoints/open_clip/CLIP-ViT-H-14-laion2B-s32B-b79K/open_clip_pytorch_model.bin
+        only_cls: false
+        use_proj: false
+        use_shuffle: false
+        mask_ratio: 0.0
+
+    adapter_config:
+      target: lvdm.modules.encoders.adapter.StyleAdapterDualAttnAS
+      cond_name: style
+      trainable: true
+      params:
+        scale: 1.0
+        use_norm: true
+        image_context_config:
+          target: lvdm.modules.encoders.adapter.StyleTransformer
+          params:
+            in_dim: 1280
+            out_dim: 1024
+            num_heads: 8
+            num_tokens: 8
+            n_layers: 3
+        scale_predictor_config:
+          target: lvdm.modules.encoders.adapter.ScaleEncoder
+          params:
+            in_dim: 1024
+            out_dim: 1
+            num_heads: 8
+            num_tokens: 16
+            n_layers: 2
+          # target: lvdm.modules.encoders.adapter.ImageContext
+          # params:
+          #   width: 1024
+          #   context_dim: 1024
+          #   token_num: 4
+      

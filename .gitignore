@@ -1,0 +1,4 @@
+checkpoints/open_clip/CLIP-ViT-H-14-laion2B-s32B-b79K
+*.pth
+*.ckpt
+output

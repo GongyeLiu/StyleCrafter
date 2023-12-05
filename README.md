@@ -1,4 +1,4 @@
-## StyleCrafter: Enhancing Stylized Text-to-Video Generation with style Adapter
+# StyleCrafter: Enhancing Stylized Text-to-Video Generation with Style Adapter
 
 <div align="center">
 
@@ -39,8 +39,44 @@ From Tsinghua University and Tencent AI Lab.
 
 ## 📝 Changelog
 - __[2023.11.30]__: 🔥🔥 Release the project page.
+- __[2023.12.05]__: 🔥🔥 Release the code and checkpoint.
 
-## 🧰 Models(will be released soon)
+
+## ⏳ TODO
+- [ ] Release Hugging Face Gradio demo(probably this week).
+- [ ] Remove Video Watermark(due to trained on WebVid10M).
+
+
+## 🧰 Models
+
+|Model|Resolution|Checkpoint|
+|:---------|:---------|:--------|
+|StyleCrafter|320x512|[Hugging Face](https://huggingface.co/liuhuohuo/StyleCrafter/tree/main)|
+
+
+It takes approximately 5 seconds to generate a 512×512 image and 85 seconds to generate a 320×512 video with 16 frames using a single NVIDIA A100 (40G) GPU. A GPU with at least 16G GPU memory is required to perform the inference process.
+
+## ⚙️ Setup
+
+```bash
+conda create -n stylecrafter python=3.8.5
+conda activate stylecrafter
+pip install -r requirements.txt
+```
+
+## 💫 Inference
+
+1) Download all checkpoints according to the [instructions](./checkpoints/README.md)
+2) Run the commands in terminal.
+```bash
+# style-guided text-to-image generation
+sh scripts/run_infer_image.sh
+
+# style-guided text-to-video generation
+sh scripts/run_infer_video.sh
+```
+3) (Optional) Infernce on your own data according to the [instructions](./eval_data/README.md)
+
 
 
 ## 👨‍👩‍👧‍👦 Crafter Family
@@ -52,22 +88,12 @@ From Tsinghua University and Tencent AI Lab.
 
 [LongerCrafter](https://github.com/arthur-qiu/LongerCrafter): Tuning-free method for longer high-quality video generation.  
 
-[DynamiCrafter](https://github.com/Doubiiu/DynamiCrafter) Animate open-domain still images to high-quality videos.
+[DynamicCrafter](https://github.com/Doubiiu/DynamiCrafter) Animate open-domain still images to high-quality videos.
 
-
-## 🤗 Citation
-```bib
-@article{liu2023stylecrafter,
-      title={StyleCrafter: Enhancing Stylized Text-to-Video Generation with Style Adapter}, 
-      author={Gongye Liu and Menghan Xia and Yong Zhang and Haoxin Chen and Jinbo Xing and Xintao Wang and Yujiu Yang and Ying Shan},
-      year={2023},
-      journal={arXiv preprint arXiv:2312.00330},
-}
-```
 
 ## 📢 Disclaimer
 We develop this repository for RESEARCH purposes, so it can only be used for personal/research/non-commercial purposes.
 ****
 
-
-
+## 📭 Contact
+If your have any comments or questions, feel free to contact [lgy22@mails.tsinghua.edu.cn](lgy22@mails.tsinghua.edu.cn)
