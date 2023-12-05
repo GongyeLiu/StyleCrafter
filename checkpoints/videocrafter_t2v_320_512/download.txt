@@ -1,0 +1,1 @@
+https://huggingface.co/VideoCrafter/Text2Video-512/blob/main/model.ckpt
