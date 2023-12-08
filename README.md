@@ -4,7 +4,7 @@
 
  <a href='https://arxiv.org/abs/2312.00330'><img src='https://img.shields.io/badge/arXiv-2312.00330-b31b1b.svg'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href='https://gongyeliu.github.io/StyleCrafter.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+<a href='https://huggingface.co/spaces/liuhuohuo/StyleCrafter'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 _**[GongyeLiu](https://github.com/GongyeLiu), [Menghan Xia*](https://menghanxia.github.io/), [Yong Zhang](https://yzhang2016.github.io), [Haoxin Chen](https://scholar.google.com/citations?user=6UPJSvwAAAAJ&hl=zh-CN&oi=ao), [Jinbo Xing](https://doubiiu.github.io/), <br>[Xintao Wang](https://xinntao.github.io/), [Yujiu Yang*](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN&oi=ao), [Ying Shan](https://scholar.google.com/citations?hl=en&user=4oXBp9UAAAAJ&view_op=list_works&sortby=pubdate)**_
@@ -38,12 +38,12 @@ From Tsinghua University and Tencent AI Lab.
 
 
 ## 📝 Changelog
-- __[2023.11.30]__: 🔥🔥 Release the project page.
+- __[2023.12.08]__: 🔥🔥 Release the Huggingface online demo.
 - __[2023.12.05]__: 🔥🔥 Release the code and checkpoint.
+- __[2023.11.30]__: 🔥🔥 Release the project page.
 
 
 ## ⏳ TODO
-- [ ] Release Hugging Face Gradio demo(probably this week).
 - [ ] Remove Video Watermark(due to trained on WebVid10M).
 
 
@@ -94,6 +94,10 @@ sh scripts/run_infer_video.sh
 ## 📢 Disclaimer
 We develop this repository for RESEARCH purposes, so it can only be used for personal/research/non-commercial purposes.
 ****
+
+## 🙏 Acknowledgements
+We would like to thank [AK(@_akhaliq)](https://twitter.com/_akhaliq?lang=en) for the help of setting up online demo.
+
 
 ## 📭 Contact
 If your have any comments or questions, feel free to contact [lgy22@mails.tsinghua.edu.cn](lgy22@mails.tsinghua.edu.cn)
