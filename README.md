@@ -1,10 +1,14 @@
 # StyleCrafter: Enhancing Stylized Text-to-Video Generation with Style Adapter
 
+### 🔥🔥🔥 [StyleCrafter on SDXL](https://github.com/GongyeLiu/StyleCrafter-SDXL) for stylized image generation is available! Enabling higher resolution(1024×1024) and more visually pleasing!
+
+
 <div align="center">
 
  <a href='https://arxiv.org/abs/2312.00330'><img src='https://img.shields.io/badge/arXiv-2312.00330-b31b1b.svg'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href='https://gongyeliu.github.io/StyleCrafter.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href='https://huggingface.co/spaces/liuhuohuo/StyleCrafter'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href='https://github.com/GongyeLiu/StyleCrafter-SDXL//'><img src='https://img.shields.io/badge/StyleCrafter-SDXL-darkcyan'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 _**[GongyeLiu](https://github.com/GongyeLiu), [Menghan Xia*](https://menghanxia.github.io/), [Yong Zhang](https://yzhang2016.github.io), [Haoxin Chen](https://scholar.google.com/citations?user=6UPJSvwAAAAJ&hl=zh-CN&oi=ao), [Jinbo Xing](https://doubiiu.github.io/), <br>[Xintao Wang](https://xinntao.github.io/), [Yujiu Yang*](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN&oi=ao), [Ying Shan](https://scholar.google.com/citations?hl=en&user=4oXBp9UAAAAJ&view_op=list_works&sortby=pubdate)**_
@@ -38,20 +42,19 @@ From Tsinghua University and Tencent AI Lab.
 
 
 ## 📝 Changelog
-- __[2023.12.08]__: 🔥🔥 Release the Huggingface online demo.
+- __[2024.06.25]__: 🔥🔥 Support [StyleCrafter on SDXL](https://github.com/GongyeLiu/StyleCrafter-SDXL)!
+- __[2023.12.08]__: 🔥🔥 Release the Huggingface online [demo](https://huggingface.co/spaces/liuhuohuo/StyleCrafter).
 - __[2023.12.05]__: 🔥🔥 Release the code and checkpoint.
 - __[2023.11.30]__: 🔥🔥 Release the project page.
 
 
-## ⏳ TODO
-- [ ] Remove Video Watermark(due to trained on WebVid10M).
-
 
 ## 🧰 Models
 
-|Model|Resolution|Checkpoint|
-|:---------|:---------|:--------|
-|StyleCrafter|320x512|[Hugging Face](https://huggingface.co/liuhuohuo/StyleCrafter/tree/main)|
+|Base Model| Gen Type | Resolution | Checkpoint | How to run |
+|:---------|:---------|:--------|:--------|:--------|
+|VideoCrafter| Image/Video |320x512|[Hugging Face](https://huggingface.co/liuhuohuo/StyleCrafter/tree/main)| [StyleCrafter on VideoCrafter](https://github.com/GongyeLiu/StyleCrafter)
+|SDXL| Image |1024x1024|[Hugging Face](https://huggingface.co/liuhuohuo/StyleCrafter-SDXL)| [StyleCrafter on SDXL](https://github.com/GongyeLiu/StyleCrafter-SDXL)
 
 
 It takes approximately 5 seconds to generate a 512×512 image and 85 seconds to generate a 320×512 video with 16 frames using a single NVIDIA A100 (40G) GPU. A GPU with at least 16G GPU memory is required to perform the inference process.
@@ -101,3 +104,13 @@ We would like to thank [AK(@_akhaliq)](https://twitter.com/_akhaliq?lang=en) for
 
 ## 📭 Contact
 If your have any comments or questions, feel free to contact [lgy22@mails.tsinghua.edu.cn](lgy22@mails.tsinghua.edu.cn)
+
+## BibTex
+```bibtex
+@article{liu2023stylecrafter,
+  title={StyleCrafter: Enhancing Stylized Text-to-Video Generation with Style Adapter},
+  author={Liu, Gongye and Xia, Menghan and Zhang, Yong and Chen, Haoxin and Xing, Jinbo and Wang, Xintao and Yang, Yujiu and Shan, Ying},
+  journal={arXiv preprint arXiv:2312.00330},
+  year={2023}
+}
+```
