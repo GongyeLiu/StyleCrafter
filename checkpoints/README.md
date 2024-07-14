@@ -18,7 +18,7 @@ Download VideoCrafter checkpoint from [huggingface](https://huggingface.co/Video
 
 
 ## Step 3: Download StyleCrafter Checkpoint
-Download StyleCrafter checkpoint from [huggingface](https://huggingface.co/liuhuohuo/StyleCrafter/tree/main), put the `adapter_v1.pth` and `temporal_v1.pth` files in the `./checkpoints/stylecrafter/`
+Download StyleCrafter checkpoint from [huggingface](https://huggingface.co/liuhuohuo/StyleCrafter/tree/main), put the `adapter_v1.pth` and `temporal_v1_1.pth` files in the `./checkpoints/stylecrafter/`
 
 
 # Final Directory Structure
@@ -45,7 +45,7 @@ VideoCrafter
 │   ├── README.md
 │   ├── stylecrafter
 │   │   ├── adapter_v1.pth
-│   │   └── temporal_v1.pth
+│   │   └── temporal_v1_1.pth
 │   └── videocrafter_t2v_320_512
 │       └── model.ckpt
 ├── configs
