@@ -43,7 +43,7 @@ From Tsinghua University and Tencent AI Lab.
 
 
 ## 📝 Changelog
-- __[2024.06.25]__: 🔥🔥 Remove watermarks(by finetuning temporal blocks on non-watermark data with 500 step)! download updated checkpoints [here](https://huggingface.co/liuhuohuo/StyleCrafter/blob/main/temporal_v1_1.pth)
+- __[2024.07.14]__: 🔥🔥 Remove watermarks! We finetune temporal blocks on non-watermark data with 500 steps, download updated checkpoints [here](https://huggingface.co/liuhuohuo/StyleCrafter/blob/main/temporal_v1_1.pth).
 - __[2024.06.25]__: 🔥🔥 Support [StyleCrafter on SDXL](https://github.com/GongyeLiu/StyleCrafter-SDXL)!
 - __[2023.12.08]__: 🔥🔥 Release the Huggingface online [demo](https://huggingface.co/spaces/liuhuohuo/StyleCrafter).
 - __[2023.12.05]__: 🔥🔥 Release the code and checkpoint.
