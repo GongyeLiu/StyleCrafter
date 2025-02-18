@@ -18,12 +18,12 @@
     {
         "prompt": "A rustic windmill in a field.",
         "style_path": [
-            "stylepic_multi_ref/oil_paint/0.jpeg",
-            "stylepic_multi_ref/oil_paint/1.jpeg",
-            "stylepic_multi_ref/oil_paint/2.jpeg",
-            "stylepic_multi_ref/oil_paint/3.jpeg",
-            "stylepic_multi_ref/oil_paint/4.jpeg",
-            "stylepic_multi_ref/oil_paint/5.jpeg"
+            "stylepic_multi_ref/style4/0.jpeg",
+            "stylepic_multi_ref/style4/1.jpeg",
+            "stylepic_multi_ref/style4/2.jpeg",
+            "stylepic_multi_ref/style4/3.jpeg",
+            "stylepic_multi_ref/style4/4.jpeg",
+            "stylepic_multi_ref/style4/5.jpeg"
         ]
     }
 ]

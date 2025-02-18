@@ -1,0 +1,1102 @@
+[
+    {
+        "prompt": "A man playing the guitar on a city street.",
+        "style_path": [
+            "stylepic_multi_ref/style1/0.jpeg",
+            "stylepic_multi_ref/style1/1.jpeg",
+            "stylepic_multi_ref/style1/2.jpeg",
+            "stylepic_multi_ref/style1/3.jpeg",
+            "stylepic_multi_ref/style1/4.jpeg",
+            "stylepic_multi_ref/style1/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A man playing the guitar on a city street.",
+        "style_path": [
+            "stylepic_multi_ref/style2/0.jpeg",
+            "stylepic_multi_ref/style2/1.jpeg",
+            "stylepic_multi_ref/style2/2.jpeg",
+            "stylepic_multi_ref/style2/3.jpeg",
+            "stylepic_multi_ref/style2/4.jpeg"
+        ]
+    },
+    {
+        "prompt": "A man playing the guitar on a city street.",
+        "style_path": [
+            "stylepic_multi_ref/style3/0.jpeg",
+            "stylepic_multi_ref/style3/1.jpeg",
+            "stylepic_multi_ref/style3/2.jpeg",
+            "stylepic_multi_ref/style3/3.jpeg",
+            "stylepic_multi_ref/style3/4.jpeg",
+            "stylepic_multi_ref/style3/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A man playing the guitar on a city street.",
+        "style_path": [
+            "stylepic_multi_ref/style4/0.jpeg",
+            "stylepic_multi_ref/style4/1.jpeg",
+            "stylepic_multi_ref/style4/2.jpeg",
+            "stylepic_multi_ref/style4/3.jpeg",
+            "stylepic_multi_ref/style4/4.jpeg",
+            "stylepic_multi_ref/style4/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A man playing the guitar on a city street.",
+        "style_path": [
+            "stylepic_multi_ref/style5/0.jpeg",
+            "stylepic_multi_ref/style5/1.jpeg",
+            "stylepic_multi_ref/style5/2.jpeg",
+            "stylepic_multi_ref/style5/3.jpeg",
+            "stylepic_multi_ref/style5/4.jpeg",
+            "stylepic_multi_ref/style5/5.jpeg",
+            "stylepic_multi_ref/style5/6.jpeg"
+        ]
+    },
+    {
+        "prompt": "A woman reading a book in a park.",
+        "style_path": [
+            "stylepic_multi_ref/style1/0.jpeg",
+            "stylepic_multi_ref/style1/1.jpeg",
+            "stylepic_multi_ref/style1/2.jpeg",
+            "stylepic_multi_ref/style1/3.jpeg",
+            "stylepic_multi_ref/style1/4.jpeg",
+            "stylepic_multi_ref/style1/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A woman reading a book in a park.",
+        "style_path": [
+            "stylepic_multi_ref/style2/0.jpeg",
+            "stylepic_multi_ref/style2/1.jpeg",
+            "stylepic_multi_ref/style2/2.jpeg",
+            "stylepic_multi_ref/style2/3.jpeg",
+            "stylepic_multi_ref/style2/4.jpeg"
+        ]
+    },
+    {
+        "prompt": "A woman reading a book in a park.",
+        "style_path": [
+            "stylepic_multi_ref/style3/0.jpeg",
+            "stylepic_multi_ref/style3/1.jpeg",
+            "stylepic_multi_ref/style3/2.jpeg",
+            "stylepic_multi_ref/style3/3.jpeg",
+            "stylepic_multi_ref/style3/4.jpeg",
+            "stylepic_multi_ref/style3/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A woman reading a book in a park.",
+        "style_path": [
+            "stylepic_multi_ref/style4/0.jpeg",
+            "stylepic_multi_ref/style4/1.jpeg",
+            "stylepic_multi_ref/style4/2.jpeg",
+            "stylepic_multi_ref/style4/3.jpeg",
+            "stylepic_multi_ref/style4/4.jpeg",
+            "stylepic_multi_ref/style4/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A woman reading a book in a park.",
+        "style_path": [
+            "stylepic_multi_ref/style5/0.jpeg",
+            "stylepic_multi_ref/style5/1.jpeg",
+            "stylepic_multi_ref/style5/2.jpeg",
+            "stylepic_multi_ref/style5/3.jpeg",
+            "stylepic_multi_ref/style5/4.jpeg",
+            "stylepic_multi_ref/style5/5.jpeg",
+            "stylepic_multi_ref/style5/6.jpeg"
+        ]
+    },
+    {
+        "prompt": "A couple dancing gracefully together.",
+        "style_path": [
+            "stylepic_multi_ref/style1/0.jpeg",
+            "stylepic_multi_ref/style1/1.jpeg",
+            "stylepic_multi_ref/style1/2.jpeg",
+            "stylepic_multi_ref/style1/3.jpeg",
+            "stylepic_multi_ref/style1/4.jpeg",
+            "stylepic_multi_ref/style1/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A couple dancing gracefully together.",
+        "style_path": [
+            "stylepic_multi_ref/style2/0.jpeg",
+            "stylepic_multi_ref/style2/1.jpeg",
+            "stylepic_multi_ref/style2/2.jpeg",
+            "stylepic_multi_ref/style2/3.jpeg",
+            "stylepic_multi_ref/style2/4.jpeg"
+        ]
+    },
+    {
+        "prompt": "A couple dancing gracefully together.",
+        "style_path": [
+            "stylepic_multi_ref/style3/0.jpeg",
+            "stylepic_multi_ref/style3/1.jpeg",
+            "stylepic_multi_ref/style3/2.jpeg",
+            "stylepic_multi_ref/style3/3.jpeg",
+            "stylepic_multi_ref/style3/4.jpeg",
+            "stylepic_multi_ref/style3/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A couple dancing gracefully together.",
+        "style_path": [
+            "stylepic_multi_ref/style4/0.jpeg",
+            "stylepic_multi_ref/style4/1.jpeg",
+            "stylepic_multi_ref/style4/2.jpeg",
+            "stylepic_multi_ref/style4/3.jpeg",
+            "stylepic_multi_ref/style4/4.jpeg",
+            "stylepic_multi_ref/style4/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A couple dancing gracefully together.",
+        "style_path": [
+            "stylepic_multi_ref/style5/0.jpeg",
+            "stylepic_multi_ref/style5/1.jpeg",
+            "stylepic_multi_ref/style5/2.jpeg",
+            "stylepic_multi_ref/style5/3.jpeg",
+            "stylepic_multi_ref/style5/4.jpeg",
+            "stylepic_multi_ref/style5/5.jpeg",
+            "stylepic_multi_ref/style5/6.jpeg"
+        ]
+    },
+    {
+        "prompt": "A person sitting on a bench, feeding birds.",
+        "style_path": [
+            "stylepic_multi_ref/style1/0.jpeg",
+            "stylepic_multi_ref/style1/1.jpeg",
+            "stylepic_multi_ref/style1/2.jpeg",
+            "stylepic_multi_ref/style1/3.jpeg",
+            "stylepic_multi_ref/style1/4.jpeg",
+            "stylepic_multi_ref/style1/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A person sitting on a bench, feeding birds.",
+        "style_path": [
+            "stylepic_multi_ref/style2/0.jpeg",
+            "stylepic_multi_ref/style2/1.jpeg",
+            "stylepic_multi_ref/style2/2.jpeg",
+            "stylepic_multi_ref/style2/3.jpeg",
+            "stylepic_multi_ref/style2/4.jpeg"
+        ]
+    },
+    {
+        "prompt": "A person sitting on a bench, feeding birds.",
+        "style_path": [
+            "stylepic_multi_ref/style3/0.jpeg",
+            "stylepic_multi_ref/style3/1.jpeg",
+            "stylepic_multi_ref/style3/2.jpeg",
+            "stylepic_multi_ref/style3/3.jpeg",
+            "stylepic_multi_ref/style3/4.jpeg",
+            "stylepic_multi_ref/style3/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A person sitting on a bench, feeding birds.",
+        "style_path": [
+            "stylepic_multi_ref/style4/0.jpeg",
+            "stylepic_multi_ref/style4/1.jpeg",
+            "stylepic_multi_ref/style4/2.jpeg",
+            "stylepic_multi_ref/style4/3.jpeg",
+            "stylepic_multi_ref/style4/4.jpeg",
+            "stylepic_multi_ref/style4/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A person sitting on a bench, feeding birds.",
+        "style_path": [
+            "stylepic_multi_ref/style5/0.jpeg",
+            "stylepic_multi_ref/style5/1.jpeg",
+            "stylepic_multi_ref/style5/2.jpeg",
+            "stylepic_multi_ref/style5/3.jpeg",
+            "stylepic_multi_ref/style5/4.jpeg",
+            "stylepic_multi_ref/style5/5.jpeg",
+            "stylepic_multi_ref/style5/6.jpeg"
+        ]
+    },
+    {
+        "prompt": "A person jogging along a scenic trail.",
+        "style_path": [
+            "stylepic_multi_ref/style1/0.jpeg",
+            "stylepic_multi_ref/style1/1.jpeg",
+            "stylepic_multi_ref/style1/2.jpeg",
+            "stylepic_multi_ref/style1/3.jpeg",
+            "stylepic_multi_ref/style1/4.jpeg",
+            "stylepic_multi_ref/style1/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A person jogging along a scenic trail.",
+        "style_path": [
+            "stylepic_multi_ref/style2/0.jpeg",
+            "stylepic_multi_ref/style2/1.jpeg",
+            "stylepic_multi_ref/style2/2.jpeg",
+            "stylepic_multi_ref/style2/3.jpeg",
+            "stylepic_multi_ref/style2/4.jpeg"
+        ]
+    },
+    {
+        "prompt": "A person jogging along a scenic trail.",
+        "style_path": [
+            "stylepic_multi_ref/style3/0.jpeg",
+            "stylepic_multi_ref/style3/1.jpeg",
+            "stylepic_multi_ref/style3/2.jpeg",
+            "stylepic_multi_ref/style3/3.jpeg",
+            "stylepic_multi_ref/style3/4.jpeg",
+            "stylepic_multi_ref/style3/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A person jogging along a scenic trail.",
+        "style_path": [
+            "stylepic_multi_ref/style4/0.jpeg",
+            "stylepic_multi_ref/style4/1.jpeg",
+            "stylepic_multi_ref/style4/2.jpeg",
+            "stylepic_multi_ref/style4/3.jpeg",
+            "stylepic_multi_ref/style4/4.jpeg",
+            "stylepic_multi_ref/style4/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A person jogging along a scenic trail.",
+        "style_path": [
+            "stylepic_multi_ref/style5/0.jpeg",
+            "stylepic_multi_ref/style5/1.jpeg",
+            "stylepic_multi_ref/style5/2.jpeg",
+            "stylepic_multi_ref/style5/3.jpeg",
+            "stylepic_multi_ref/style5/4.jpeg",
+            "stylepic_multi_ref/style5/5.jpeg",
+            "stylepic_multi_ref/style5/6.jpeg"
+        ]
+    },
+    {
+        "prompt": "A flock of birds flying gracefully in the sky.",
+        "style_path": [
+            "stylepic_multi_ref/style1/0.jpeg",
+            "stylepic_multi_ref/style1/1.jpeg",
+            "stylepic_multi_ref/style1/2.jpeg",
+            "stylepic_multi_ref/style1/3.jpeg",
+            "stylepic_multi_ref/style1/4.jpeg",
+            "stylepic_multi_ref/style1/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A flock of birds flying gracefully in the sky.",
+        "style_path": [
+            "stylepic_multi_ref/style2/0.jpeg",
+            "stylepic_multi_ref/style2/1.jpeg",
+            "stylepic_multi_ref/style2/2.jpeg",
+            "stylepic_multi_ref/style2/3.jpeg",
+            "stylepic_multi_ref/style2/4.jpeg"
+        ]
+    },
+    {
+        "prompt": "A flock of birds flying gracefully in the sky.",
+        "style_path": [
+            "stylepic_multi_ref/style3/0.jpeg",
+            "stylepic_multi_ref/style3/1.jpeg",
+            "stylepic_multi_ref/style3/2.jpeg",
+            "stylepic_multi_ref/style3/3.jpeg",
+            "stylepic_multi_ref/style3/4.jpeg",
+            "stylepic_multi_ref/style3/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A flock of birds flying gracefully in the sky.",
+        "style_path": [
+            "stylepic_multi_ref/style4/0.jpeg",
+            "stylepic_multi_ref/style4/1.jpeg",
+            "stylepic_multi_ref/style4/2.jpeg",
+            "stylepic_multi_ref/style4/3.jpeg",
+            "stylepic_multi_ref/style4/4.jpeg",
+            "stylepic_multi_ref/style4/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A flock of birds flying gracefully in the sky.",
+        "style_path": [
+            "stylepic_multi_ref/style5/0.jpeg",
+            "stylepic_multi_ref/style5/1.jpeg",
+            "stylepic_multi_ref/style5/2.jpeg",
+            "stylepic_multi_ref/style5/3.jpeg",
+            "stylepic_multi_ref/style5/4.jpeg",
+            "stylepic_multi_ref/style5/5.jpeg",
+            "stylepic_multi_ref/style5/6.jpeg"
+        ]
+    },
+    {
+        "prompt": "A colorful butterfly resting on a flower.",
+        "style_path": [
+            "stylepic_multi_ref/style1/0.jpeg",
+            "stylepic_multi_ref/style1/1.jpeg",
+            "stylepic_multi_ref/style1/2.jpeg",
+            "stylepic_multi_ref/style1/3.jpeg",
+            "stylepic_multi_ref/style1/4.jpeg",
+            "stylepic_multi_ref/style1/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A colorful butterfly resting on a flower.",
+        "style_path": [
+            "stylepic_multi_ref/style2/0.jpeg",
+            "stylepic_multi_ref/style2/1.jpeg",
+            "stylepic_multi_ref/style2/2.jpeg",
+            "stylepic_multi_ref/style2/3.jpeg",
+            "stylepic_multi_ref/style2/4.jpeg"
+        ]
+    },
+    {
+        "prompt": "A colorful butterfly resting on a flower.",
+        "style_path": [
+            "stylepic_multi_ref/style3/0.jpeg",
+            "stylepic_multi_ref/style3/1.jpeg",
+            "stylepic_multi_ref/style3/2.jpeg",
+            "stylepic_multi_ref/style3/3.jpeg",
+            "stylepic_multi_ref/style3/4.jpeg",
+            "stylepic_multi_ref/style3/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A colorful butterfly resting on a flower.",
+        "style_path": [
+            "stylepic_multi_ref/style4/0.jpeg",
+            "stylepic_multi_ref/style4/1.jpeg",
+            "stylepic_multi_ref/style4/2.jpeg",
+            "stylepic_multi_ref/style4/3.jpeg",
+            "stylepic_multi_ref/style4/4.jpeg",
+            "stylepic_multi_ref/style4/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A colorful butterfly resting on a flower.",
+        "style_path": [
+            "stylepic_multi_ref/style5/0.jpeg",
+            "stylepic_multi_ref/style5/1.jpeg",
+            "stylepic_multi_ref/style5/2.jpeg",
+            "stylepic_multi_ref/style5/3.jpeg",
+            "stylepic_multi_ref/style5/4.jpeg",
+            "stylepic_multi_ref/style5/5.jpeg",
+            "stylepic_multi_ref/style5/6.jpeg"
+        ]
+    },
+    {
+        "prompt": "A bear fishing in a river.",
+        "style_path": [
+            "stylepic_multi_ref/style1/0.jpeg",
+            "stylepic_multi_ref/style1/1.jpeg",
+            "stylepic_multi_ref/style1/2.jpeg",
+            "stylepic_multi_ref/style1/3.jpeg",
+            "stylepic_multi_ref/style1/4.jpeg",
+            "stylepic_multi_ref/style1/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A bear fishing in a river.",
+        "style_path": [
+            "stylepic_multi_ref/style2/0.jpeg",
+            "stylepic_multi_ref/style2/1.jpeg",
+            "stylepic_multi_ref/style2/2.jpeg",
+            "stylepic_multi_ref/style2/3.jpeg",
+            "stylepic_multi_ref/style2/4.jpeg"
+        ]
+    },
+    {
+        "prompt": "A bear fishing in a river.",
+        "style_path": [
+            "stylepic_multi_ref/style3/0.jpeg",
+            "stylepic_multi_ref/style3/1.jpeg",
+            "stylepic_multi_ref/style3/2.jpeg",
+            "stylepic_multi_ref/style3/3.jpeg",
+            "stylepic_multi_ref/style3/4.jpeg",
+            "stylepic_multi_ref/style3/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A bear fishing in a river.",
+        "style_path": [
+            "stylepic_multi_ref/style4/0.jpeg",
+            "stylepic_multi_ref/style4/1.jpeg",
+            "stylepic_multi_ref/style4/2.jpeg",
+            "stylepic_multi_ref/style4/3.jpeg",
+            "stylepic_multi_ref/style4/4.jpeg",
+            "stylepic_multi_ref/style4/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A bear fishing in a river.",
+        "style_path": [
+            "stylepic_multi_ref/style5/0.jpeg",
+            "stylepic_multi_ref/style5/1.jpeg",
+            "stylepic_multi_ref/style5/2.jpeg",
+            "stylepic_multi_ref/style5/3.jpeg",
+            "stylepic_multi_ref/style5/4.jpeg",
+            "stylepic_multi_ref/style5/5.jpeg",
+            "stylepic_multi_ref/style5/6.jpeg"
+        ]
+    },
+    {
+        "prompt": "A dog is running in front of a house",
+        "style_path": [
+            "stylepic_multi_ref/style1/0.jpeg",
+            "stylepic_multi_ref/style1/1.jpeg",
+            "stylepic_multi_ref/style1/2.jpeg",
+            "stylepic_multi_ref/style1/3.jpeg",
+            "stylepic_multi_ref/style1/4.jpeg",
+            "stylepic_multi_ref/style1/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A dog is running in front of a house",
+        "style_path": [
+            "stylepic_multi_ref/style2/0.jpeg",
+            "stylepic_multi_ref/style2/1.jpeg",
+            "stylepic_multi_ref/style2/2.jpeg",
+            "stylepic_multi_ref/style2/3.jpeg",
+            "stylepic_multi_ref/style2/4.jpeg"
+        ]
+    },
+    {
+        "prompt": "A dog is running in front of a house",
+        "style_path": [
+            "stylepic_multi_ref/style3/0.jpeg",
+            "stylepic_multi_ref/style3/1.jpeg",
+            "stylepic_multi_ref/style3/2.jpeg",
+            "stylepic_multi_ref/style3/3.jpeg",
+            "stylepic_multi_ref/style3/4.jpeg",
+            "stylepic_multi_ref/style3/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A dog is running in front of a house",
+        "style_path": [
+            "stylepic_multi_ref/style4/0.jpeg",
+            "stylepic_multi_ref/style4/1.jpeg",
+            "stylepic_multi_ref/style4/2.jpeg",
+            "stylepic_multi_ref/style4/3.jpeg",
+            "stylepic_multi_ref/style4/4.jpeg",
+            "stylepic_multi_ref/style4/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A dog is running in front of a house",
+        "style_path": [
+            "stylepic_multi_ref/style5/0.jpeg",
+            "stylepic_multi_ref/style5/1.jpeg",
+            "stylepic_multi_ref/style5/2.jpeg",
+            "stylepic_multi_ref/style5/3.jpeg",
+            "stylepic_multi_ref/style5/4.jpeg",
+            "stylepic_multi_ref/style5/5.jpeg",
+            "stylepic_multi_ref/style5/6.jpeg"
+        ]
+    },
+    {
+        "prompt": "A rabbit nibbling on a carrot.",
+        "style_path": [
+            "stylepic_multi_ref/style1/0.jpeg",
+            "stylepic_multi_ref/style1/1.jpeg",
+            "stylepic_multi_ref/style1/2.jpeg",
+            "stylepic_multi_ref/style1/3.jpeg",
+            "stylepic_multi_ref/style1/4.jpeg",
+            "stylepic_multi_ref/style1/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A rabbit nibbling on a carrot.",
+        "style_path": [
+            "stylepic_multi_ref/style2/0.jpeg",
+            "stylepic_multi_ref/style2/1.jpeg",
+            "stylepic_multi_ref/style2/2.jpeg",
+            "stylepic_multi_ref/style2/3.jpeg",
+            "stylepic_multi_ref/style2/4.jpeg"
+        ]
+    },
+    {
+        "prompt": "A rabbit nibbling on a carrot.",
+        "style_path": [
+            "stylepic_multi_ref/style3/0.jpeg",
+            "stylepic_multi_ref/style3/1.jpeg",
+            "stylepic_multi_ref/style3/2.jpeg",
+            "stylepic_multi_ref/style3/3.jpeg",
+            "stylepic_multi_ref/style3/4.jpeg",
+            "stylepic_multi_ref/style3/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A rabbit nibbling on a carrot.",
+        "style_path": [
+            "stylepic_multi_ref/style4/0.jpeg",
+            "stylepic_multi_ref/style4/1.jpeg",
+            "stylepic_multi_ref/style4/2.jpeg",
+            "stylepic_multi_ref/style4/3.jpeg",
+            "stylepic_multi_ref/style4/4.jpeg",
+            "stylepic_multi_ref/style4/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A rabbit nibbling on a carrot.",
+        "style_path": [
+            "stylepic_multi_ref/style5/0.jpeg",
+            "stylepic_multi_ref/style5/1.jpeg",
+            "stylepic_multi_ref/style5/2.jpeg",
+            "stylepic_multi_ref/style5/3.jpeg",
+            "stylepic_multi_ref/style5/4.jpeg",
+            "stylepic_multi_ref/style5/5.jpeg",
+            "stylepic_multi_ref/style5/6.jpeg"
+        ]
+    },
+    {
+        "prompt": "A bouquet of flowers in a vase.",
+        "style_path": [
+            "stylepic_multi_ref/style1/0.jpeg",
+            "stylepic_multi_ref/style1/1.jpeg",
+            "stylepic_multi_ref/style1/2.jpeg",
+            "stylepic_multi_ref/style1/3.jpeg",
+            "stylepic_multi_ref/style1/4.jpeg",
+            "stylepic_multi_ref/style1/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A bouquet of flowers in a vase.",
+        "style_path": [
+            "stylepic_multi_ref/style2/0.jpeg",
+            "stylepic_multi_ref/style2/1.jpeg",
+            "stylepic_multi_ref/style2/2.jpeg",
+            "stylepic_multi_ref/style2/3.jpeg",
+            "stylepic_multi_ref/style2/4.jpeg"
+        ]
+    },
+    {
+        "prompt": "A bouquet of flowers in a vase.",
+        "style_path": [
+            "stylepic_multi_ref/style3/0.jpeg",
+            "stylepic_multi_ref/style3/1.jpeg",
+            "stylepic_multi_ref/style3/2.jpeg",
+            "stylepic_multi_ref/style3/3.jpeg",
+            "stylepic_multi_ref/style3/4.jpeg",
+            "stylepic_multi_ref/style3/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A bouquet of flowers in a vase.",
+        "style_path": [
+            "stylepic_multi_ref/style4/0.jpeg",
+            "stylepic_multi_ref/style4/1.jpeg",
+            "stylepic_multi_ref/style4/2.jpeg",
+            "stylepic_multi_ref/style4/3.jpeg",
+            "stylepic_multi_ref/style4/4.jpeg",
+            "stylepic_multi_ref/style4/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A bouquet of flowers in a vase.",
+        "style_path": [
+            "stylepic_multi_ref/style5/0.jpeg",
+            "stylepic_multi_ref/style5/1.jpeg",
+            "stylepic_multi_ref/style5/2.jpeg",
+            "stylepic_multi_ref/style5/3.jpeg",
+            "stylepic_multi_ref/style5/4.jpeg",
+            "stylepic_multi_ref/style5/5.jpeg",
+            "stylepic_multi_ref/style5/6.jpeg"
+        ]
+    },
+    {
+        "prompt": "A telescope pointed at the stars.",
+        "style_path": [
+            "stylepic_multi_ref/style1/0.jpeg",
+            "stylepic_multi_ref/style1/1.jpeg",
+            "stylepic_multi_ref/style1/2.jpeg",
+            "stylepic_multi_ref/style1/3.jpeg",
+            "stylepic_multi_ref/style1/4.jpeg",
+            "stylepic_multi_ref/style1/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A telescope pointed at the stars.",
+        "style_path": [
+            "stylepic_multi_ref/style2/0.jpeg",
+            "stylepic_multi_ref/style2/1.jpeg",
+            "stylepic_multi_ref/style2/2.jpeg",
+            "stylepic_multi_ref/style2/3.jpeg",
+            "stylepic_multi_ref/style2/4.jpeg"
+        ]
+    },
+    {
+        "prompt": "A telescope pointed at the stars.",
+        "style_path": [
+            "stylepic_multi_ref/style3/0.jpeg",
+            "stylepic_multi_ref/style3/1.jpeg",
+            "stylepic_multi_ref/style3/2.jpeg",
+            "stylepic_multi_ref/style3/3.jpeg",
+            "stylepic_multi_ref/style3/4.jpeg",
+            "stylepic_multi_ref/style3/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A telescope pointed at the stars.",
+        "style_path": [
+            "stylepic_multi_ref/style4/0.jpeg",
+            "stylepic_multi_ref/style4/1.jpeg",
+            "stylepic_multi_ref/style4/2.jpeg",
+            "stylepic_multi_ref/style4/3.jpeg",
+            "stylepic_multi_ref/style4/4.jpeg",
+            "stylepic_multi_ref/style4/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A telescope pointed at the stars.",
+        "style_path": [
+            "stylepic_multi_ref/style5/0.jpeg",
+            "stylepic_multi_ref/style5/1.jpeg",
+            "stylepic_multi_ref/style5/2.jpeg",
+            "stylepic_multi_ref/style5/3.jpeg",
+            "stylepic_multi_ref/style5/4.jpeg",
+            "stylepic_multi_ref/style5/5.jpeg",
+            "stylepic_multi_ref/style5/6.jpeg"
+        ]
+    },
+    {
+        "prompt": "A rowboat docked on a peaceful lake.",
+        "style_path": [
+            "stylepic_multi_ref/style1/0.jpeg",
+            "stylepic_multi_ref/style1/1.jpeg",
+            "stylepic_multi_ref/style1/2.jpeg",
+            "stylepic_multi_ref/style1/3.jpeg",
+            "stylepic_multi_ref/style1/4.jpeg",
+            "stylepic_multi_ref/style1/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A rowboat docked on a peaceful lake.",
+        "style_path": [
+            "stylepic_multi_ref/style2/0.jpeg",
+            "stylepic_multi_ref/style2/1.jpeg",
+            "stylepic_multi_ref/style2/2.jpeg",
+            "stylepic_multi_ref/style2/3.jpeg",
+            "stylepic_multi_ref/style2/4.jpeg"
+        ]
+    },
+    {
+        "prompt": "A rowboat docked on a peaceful lake.",
+        "style_path": [
+            "stylepic_multi_ref/style3/0.jpeg",
+            "stylepic_multi_ref/style3/1.jpeg",
+            "stylepic_multi_ref/style3/2.jpeg",
+            "stylepic_multi_ref/style3/3.jpeg",
+            "stylepic_multi_ref/style3/4.jpeg",
+            "stylepic_multi_ref/style3/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A rowboat docked on a peaceful lake.",
+        "style_path": [
+            "stylepic_multi_ref/style4/0.jpeg",
+            "stylepic_multi_ref/style4/1.jpeg",
+            "stylepic_multi_ref/style4/2.jpeg",
+            "stylepic_multi_ref/style4/3.jpeg",
+            "stylepic_multi_ref/style4/4.jpeg",
+            "stylepic_multi_ref/style4/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A rowboat docked on a peaceful lake.",
+        "style_path": [
+            "stylepic_multi_ref/style5/0.jpeg",
+            "stylepic_multi_ref/style5/1.jpeg",
+            "stylepic_multi_ref/style5/2.jpeg",
+            "stylepic_multi_ref/style5/3.jpeg",
+            "stylepic_multi_ref/style5/4.jpeg",
+            "stylepic_multi_ref/style5/5.jpeg",
+            "stylepic_multi_ref/style5/6.jpeg"
+        ]
+    },
+    {
+        "prompt": "A rustic windmill in a field.",
+        "style_path": [
+            "stylepic_multi_ref/style1/0.jpeg",
+            "stylepic_multi_ref/style1/1.jpeg",
+            "stylepic_multi_ref/style1/2.jpeg",
+            "stylepic_multi_ref/style1/3.jpeg",
+            "stylepic_multi_ref/style1/4.jpeg",
+            "stylepic_multi_ref/style1/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A rustic windmill in a field.",
+        "style_path": [
+            "stylepic_multi_ref/style2/0.jpeg",
+            "stylepic_multi_ref/style2/1.jpeg",
+            "stylepic_multi_ref/style2/2.jpeg",
+            "stylepic_multi_ref/style2/3.jpeg",
+            "stylepic_multi_ref/style2/4.jpeg"
+        ]
+    },
+    {
+        "prompt": "A rustic windmill in a field.",
+        "style_path": [
+            "stylepic_multi_ref/style3/0.jpeg",
+            "stylepic_multi_ref/style3/1.jpeg",
+            "stylepic_multi_ref/style3/2.jpeg",
+            "stylepic_multi_ref/style3/3.jpeg",
+            "stylepic_multi_ref/style3/4.jpeg",
+            "stylepic_multi_ref/style3/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A rustic windmill in a field.",
+        "style_path": [
+            "stylepic_multi_ref/style4/0.jpeg",
+            "stylepic_multi_ref/style4/1.jpeg",
+            "stylepic_multi_ref/style4/2.jpeg",
+            "stylepic_multi_ref/style4/3.jpeg",
+            "stylepic_multi_ref/style4/4.jpeg",
+            "stylepic_multi_ref/style4/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A rustic windmill in a field.",
+        "style_path": [
+            "stylepic_multi_ref/style5/0.jpeg",
+            "stylepic_multi_ref/style5/1.jpeg",
+            "stylepic_multi_ref/style5/2.jpeg",
+            "stylepic_multi_ref/style5/3.jpeg",
+            "stylepic_multi_ref/style5/4.jpeg",
+            "stylepic_multi_ref/style5/5.jpeg",
+            "stylepic_multi_ref/style5/6.jpeg"
+        ]
+    },
+    {
+        "prompt": "A lighthouse standing tall on a rocky coast.",
+        "style_path": [
+            "stylepic_multi_ref/style1/0.jpeg",
+            "stylepic_multi_ref/style1/1.jpeg",
+            "stylepic_multi_ref/style1/2.jpeg",
+            "stylepic_multi_ref/style1/3.jpeg",
+            "stylepic_multi_ref/style1/4.jpeg",
+            "stylepic_multi_ref/style1/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A lighthouse standing tall on a rocky coast.",
+        "style_path": [
+            "stylepic_multi_ref/style2/0.jpeg",
+            "stylepic_multi_ref/style2/1.jpeg",
+            "stylepic_multi_ref/style2/2.jpeg",
+            "stylepic_multi_ref/style2/3.jpeg",
+            "stylepic_multi_ref/style2/4.jpeg"
+        ]
+    },
+    {
+        "prompt": "A lighthouse standing tall on a rocky coast.",
+        "style_path": [
+            "stylepic_multi_ref/style3/0.jpeg",
+            "stylepic_multi_ref/style3/1.jpeg",
+            "stylepic_multi_ref/style3/2.jpeg",
+            "stylepic_multi_ref/style3/3.jpeg",
+            "stylepic_multi_ref/style3/4.jpeg",
+            "stylepic_multi_ref/style3/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A lighthouse standing tall on a rocky coast.",
+        "style_path": [
+            "stylepic_multi_ref/style4/0.jpeg",
+            "stylepic_multi_ref/style4/1.jpeg",
+            "stylepic_multi_ref/style4/2.jpeg",
+            "stylepic_multi_ref/style4/3.jpeg",
+            "stylepic_multi_ref/style4/4.jpeg",
+            "stylepic_multi_ref/style4/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A lighthouse standing tall on a rocky coast.",
+        "style_path": [
+            "stylepic_multi_ref/style5/0.jpeg",
+            "stylepic_multi_ref/style5/1.jpeg",
+            "stylepic_multi_ref/style5/2.jpeg",
+            "stylepic_multi_ref/style5/3.jpeg",
+            "stylepic_multi_ref/style5/4.jpeg",
+            "stylepic_multi_ref/style5/5.jpeg",
+            "stylepic_multi_ref/style5/6.jpeg"
+        ]
+    },
+    {
+        "prompt": "A quaint cobblestone street lined with shops and cafes.",
+        "style_path": [
+            "stylepic_multi_ref/style1/0.jpeg",
+            "stylepic_multi_ref/style1/1.jpeg",
+            "stylepic_multi_ref/style1/2.jpeg",
+            "stylepic_multi_ref/style1/3.jpeg",
+            "stylepic_multi_ref/style1/4.jpeg",
+            "stylepic_multi_ref/style1/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A quaint cobblestone street lined with shops and cafes.",
+        "style_path": [
+            "stylepic_multi_ref/style2/0.jpeg",
+            "stylepic_multi_ref/style2/1.jpeg",
+            "stylepic_multi_ref/style2/2.jpeg",
+            "stylepic_multi_ref/style2/3.jpeg",
+            "stylepic_multi_ref/style2/4.jpeg"
+        ]
+    },
+    {
+        "prompt": "A quaint cobblestone street lined with shops and cafes.",
+        "style_path": [
+            "stylepic_multi_ref/style3/0.jpeg",
+            "stylepic_multi_ref/style3/1.jpeg",
+            "stylepic_multi_ref/style3/2.jpeg",
+            "stylepic_multi_ref/style3/3.jpeg",
+            "stylepic_multi_ref/style3/4.jpeg",
+            "stylepic_multi_ref/style3/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A quaint cobblestone street lined with shops and cafes.",
+        "style_path": [
+            "stylepic_multi_ref/style4/0.jpeg",
+            "stylepic_multi_ref/style4/1.jpeg",
+            "stylepic_multi_ref/style4/2.jpeg",
+            "stylepic_multi_ref/style4/3.jpeg",
+            "stylepic_multi_ref/style4/4.jpeg",
+            "stylepic_multi_ref/style4/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A quaint cobblestone street lined with shops and cafes.",
+        "style_path": [
+            "stylepic_multi_ref/style5/0.jpeg",
+            "stylepic_multi_ref/style5/1.jpeg",
+            "stylepic_multi_ref/style5/2.jpeg",
+            "stylepic_multi_ref/style5/3.jpeg",
+            "stylepic_multi_ref/style5/4.jpeg",
+            "stylepic_multi_ref/style5/5.jpeg",
+            "stylepic_multi_ref/style5/6.jpeg"
+        ]
+    },
+    {
+        "prompt": "A modern cityscape with towering skyscrapers.",
+        "style_path": [
+            "stylepic_multi_ref/style1/0.jpeg",
+            "stylepic_multi_ref/style1/1.jpeg",
+            "stylepic_multi_ref/style1/2.jpeg",
+            "stylepic_multi_ref/style1/3.jpeg",
+            "stylepic_multi_ref/style1/4.jpeg",
+            "stylepic_multi_ref/style1/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A modern cityscape with towering skyscrapers.",
+        "style_path": [
+            "stylepic_multi_ref/style2/0.jpeg",
+            "stylepic_multi_ref/style2/1.jpeg",
+            "stylepic_multi_ref/style2/2.jpeg",
+            "stylepic_multi_ref/style2/3.jpeg",
+            "stylepic_multi_ref/style2/4.jpeg"
+        ]
+    },
+    {
+        "prompt": "A modern cityscape with towering skyscrapers.",
+        "style_path": [
+            "stylepic_multi_ref/style3/0.jpeg",
+            "stylepic_multi_ref/style3/1.jpeg",
+            "stylepic_multi_ref/style3/2.jpeg",
+            "stylepic_multi_ref/style3/3.jpeg",
+            "stylepic_multi_ref/style3/4.jpeg",
+            "stylepic_multi_ref/style3/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A modern cityscape with towering skyscrapers.",
+        "style_path": [
+            "stylepic_multi_ref/style4/0.jpeg",
+            "stylepic_multi_ref/style4/1.jpeg",
+            "stylepic_multi_ref/style4/2.jpeg",
+            "stylepic_multi_ref/style4/3.jpeg",
+            "stylepic_multi_ref/style4/4.jpeg",
+            "stylepic_multi_ref/style4/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A modern cityscape with towering skyscrapers.",
+        "style_path": [
+            "stylepic_multi_ref/style5/0.jpeg",
+            "stylepic_multi_ref/style5/1.jpeg",
+            "stylepic_multi_ref/style5/2.jpeg",
+            "stylepic_multi_ref/style5/3.jpeg",
+            "stylepic_multi_ref/style5/4.jpeg",
+            "stylepic_multi_ref/style5/5.jpeg",
+            "stylepic_multi_ref/style5/6.jpeg"
+        ]
+    },
+    {
+        "prompt": "A winding path through a tranquil garden.",
+        "style_path": [
+            "stylepic_multi_ref/style1/0.jpeg",
+            "stylepic_multi_ref/style1/1.jpeg",
+            "stylepic_multi_ref/style1/2.jpeg",
+            "stylepic_multi_ref/style1/3.jpeg",
+            "stylepic_multi_ref/style1/4.jpeg",
+            "stylepic_multi_ref/style1/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A winding path through a tranquil garden.",
+        "style_path": [
+            "stylepic_multi_ref/style2/0.jpeg",
+            "stylepic_multi_ref/style2/1.jpeg",
+            "stylepic_multi_ref/style2/2.jpeg",
+            "stylepic_multi_ref/style2/3.jpeg",
+            "stylepic_multi_ref/style2/4.jpeg"
+        ]
+    },
+    {
+        "prompt": "A winding path through a tranquil garden.",
+        "style_path": [
+            "stylepic_multi_ref/style3/0.jpeg",
+            "stylepic_multi_ref/style3/1.jpeg",
+            "stylepic_multi_ref/style3/2.jpeg",
+            "stylepic_multi_ref/style3/3.jpeg",
+            "stylepic_multi_ref/style3/4.jpeg",
+            "stylepic_multi_ref/style3/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A winding path through a tranquil garden.",
+        "style_path": [
+            "stylepic_multi_ref/style4/0.jpeg",
+            "stylepic_multi_ref/style4/1.jpeg",
+            "stylepic_multi_ref/style4/2.jpeg",
+            "stylepic_multi_ref/style4/3.jpeg",
+            "stylepic_multi_ref/style4/4.jpeg",
+            "stylepic_multi_ref/style4/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A winding path through a tranquil garden.",
+        "style_path": [
+            "stylepic_multi_ref/style5/0.jpeg",
+            "stylepic_multi_ref/style5/1.jpeg",
+            "stylepic_multi_ref/style5/2.jpeg",
+            "stylepic_multi_ref/style5/3.jpeg",
+            "stylepic_multi_ref/style5/4.jpeg",
+            "stylepic_multi_ref/style5/5.jpeg",
+            "stylepic_multi_ref/style5/6.jpeg"
+        ]
+    },
+    {
+        "prompt": "A serene mountain landscape with a river flowing through it.",
+        "style_path": [
+            "stylepic_multi_ref/style1/0.jpeg",
+            "stylepic_multi_ref/style1/1.jpeg",
+            "stylepic_multi_ref/style1/2.jpeg",
+            "stylepic_multi_ref/style1/3.jpeg",
+            "stylepic_multi_ref/style1/4.jpeg",
+            "stylepic_multi_ref/style1/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A serene mountain landscape with a river flowing through it.",
+        "style_path": [
+            "stylepic_multi_ref/style2/0.jpeg",
+            "stylepic_multi_ref/style2/1.jpeg",
+            "stylepic_multi_ref/style2/2.jpeg",
+            "stylepic_multi_ref/style2/3.jpeg",
+            "stylepic_multi_ref/style2/4.jpeg"
+        ]
+    },
+    {
+        "prompt": "A serene mountain landscape with a river flowing through it.",
+        "style_path": [
+            "stylepic_multi_ref/style3/0.jpeg",
+            "stylepic_multi_ref/style3/1.jpeg",
+            "stylepic_multi_ref/style3/2.jpeg",
+            "stylepic_multi_ref/style3/3.jpeg",
+            "stylepic_multi_ref/style3/4.jpeg",
+            "stylepic_multi_ref/style3/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A serene mountain landscape with a river flowing through it.",
+        "style_path": [
+            "stylepic_multi_ref/style4/0.jpeg",
+            "stylepic_multi_ref/style4/1.jpeg",
+            "stylepic_multi_ref/style4/2.jpeg",
+            "stylepic_multi_ref/style4/3.jpeg",
+            "stylepic_multi_ref/style4/4.jpeg",
+            "stylepic_multi_ref/style4/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A serene mountain landscape with a river flowing through it.",
+        "style_path": [
+            "stylepic_multi_ref/style5/0.jpeg",
+            "stylepic_multi_ref/style5/1.jpeg",
+            "stylepic_multi_ref/style5/2.jpeg",
+            "stylepic_multi_ref/style5/3.jpeg",
+            "stylepic_multi_ref/style5/4.jpeg",
+            "stylepic_multi_ref/style5/5.jpeg",
+            "stylepic_multi_ref/style5/6.jpeg"
+        ]
+    },
+    {
+        "prompt": "An ancient temple surrounded by lush vegetation.",
+        "style_path": [
+            "stylepic_multi_ref/style1/0.jpeg",
+            "stylepic_multi_ref/style1/1.jpeg",
+            "stylepic_multi_ref/style1/2.jpeg",
+            "stylepic_multi_ref/style1/3.jpeg",
+            "stylepic_multi_ref/style1/4.jpeg",
+            "stylepic_multi_ref/style1/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "An ancient temple surrounded by lush vegetation.",
+        "style_path": [
+            "stylepic_multi_ref/style2/0.jpeg",
+            "stylepic_multi_ref/style2/1.jpeg",
+            "stylepic_multi_ref/style2/2.jpeg",
+            "stylepic_multi_ref/style2/3.jpeg",
+            "stylepic_multi_ref/style2/4.jpeg"
+        ]
+    },
+    {
+        "prompt": "An ancient temple surrounded by lush vegetation.",
+        "style_path": [
+            "stylepic_multi_ref/style3/0.jpeg",
+            "stylepic_multi_ref/style3/1.jpeg",
+            "stylepic_multi_ref/style3/2.jpeg",
+            "stylepic_multi_ref/style3/3.jpeg",
+            "stylepic_multi_ref/style3/4.jpeg",
+            "stylepic_multi_ref/style3/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "An ancient temple surrounded by lush vegetation.",
+        "style_path": [
+            "stylepic_multi_ref/style4/0.jpeg",
+            "stylepic_multi_ref/style4/1.jpeg",
+            "stylepic_multi_ref/style4/2.jpeg",
+            "stylepic_multi_ref/style4/3.jpeg",
+            "stylepic_multi_ref/style4/4.jpeg",
+            "stylepic_multi_ref/style4/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "An ancient temple surrounded by lush vegetation.",
+        "style_path": [
+            "stylepic_multi_ref/style5/0.jpeg",
+            "stylepic_multi_ref/style5/1.jpeg",
+            "stylepic_multi_ref/style5/2.jpeg",
+            "stylepic_multi_ref/style5/3.jpeg",
+            "stylepic_multi_ref/style5/4.jpeg",
+            "stylepic_multi_ref/style5/5.jpeg",
+            "stylepic_multi_ref/style5/6.jpeg"
+        ]
+    }
+]

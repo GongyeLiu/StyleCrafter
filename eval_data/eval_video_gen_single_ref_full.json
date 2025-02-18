@@ -1,0 +1,962 @@
+[
+    {
+        "prompt": "A street performer playing the guitar.",
+        "style_path": "stylepic_single_ref/3d_1.png"
+    },
+    {
+        "prompt": "A street performer playing the guitar.",
+        "style_path": "stylepic_single_ref/anime_1.png"
+    },
+    {
+        "prompt": "A street performer playing the guitar.",
+        "style_path": "stylepic_single_ref/anime_2.jpeg"
+    },
+    {
+        "prompt": "A street performer playing the guitar.",
+        "style_path": "stylepic_single_ref/craft_1.png"
+    },
+    {
+        "prompt": "A street performer playing the guitar.",
+        "style_path": "stylepic_single_ref/digital_art_1.jpg"
+    },
+    {
+        "prompt": "A street performer playing the guitar.",
+        "style_path": "stylepic_single_ref/digital_art_2.jpeg"
+    },
+    {
+        "prompt": "A street performer playing the guitar.",
+        "style_path": "stylepic_single_ref/digital_art_3.png"
+    },
+    {
+        "prompt": "A street performer playing the guitar.",
+        "style_path": "stylepic_single_ref/icon_1.png"
+    },
+    {
+        "prompt": "A street performer playing the guitar.",
+        "style_path": "stylepic_single_ref/illstration_1.jpeg"
+    },
+    {
+        "prompt": "A street performer playing the guitar.",
+        "style_path": "stylepic_single_ref/illustration_2.jpg"
+    },
+    {
+        "prompt": "A street performer playing the guitar.",
+        "style_path": "stylepic_single_ref/ink_1.jpeg"
+    },
+    {
+        "prompt": "A street performer playing the guitar.",
+        "style_path": "stylepic_single_ref/ink_2.jpeg"
+    },
+    {
+        "prompt": "A street performer playing the guitar.",
+        "style_path": "stylepic_single_ref/line_1.jpeg"
+    },
+    {
+        "prompt": "A street performer playing the guitar.",
+        "style_path": "stylepic_single_ref/line_2.jpeg"
+    },
+    {
+        "prompt": "A street performer playing the guitar.",
+        "style_path": "stylepic_single_ref/oil_paint_1.jpeg"
+    },
+    {
+        "prompt": "A street performer playing the guitar.",
+        "style_path": "stylepic_single_ref/oil_paint_2.jpg"
+    },
+    {
+        "prompt": "A street performer playing the guitar.",
+        "style_path": "stylepic_single_ref/oil_paint_3.jpg"
+    },
+    {
+        "prompt": "A street performer playing the guitar.",
+        "style_path": "stylepic_single_ref/ukiyoe.jpg"
+    },
+    {
+        "prompt": "A street performer playing the guitar.",
+        "style_path": "stylepic_single_ref/watercolor_1.png"
+    },
+    {
+        "prompt": "A street performer playing the guitar.",
+        "style_path": "stylepic_single_ref/watercolor_2.jpeg"
+    },
+    {
+        "prompt": "A chef preparing meals in kitchen.",
+        "style_path": "stylepic_single_ref/3d_1.png"
+    },
+    {
+        "prompt": "A chef preparing meals in kitchen.",
+        "style_path": "stylepic_single_ref/anime_1.png"
+    },
+    {
+        "prompt": "A chef preparing meals in kitchen.",
+        "style_path": "stylepic_single_ref/anime_2.jpeg"
+    },
+    {
+        "prompt": "A chef preparing meals in kitchen.",
+        "style_path": "stylepic_single_ref/craft_1.png"
+    },
+    {
+        "prompt": "A chef preparing meals in kitchen.",
+        "style_path": "stylepic_single_ref/digital_art_1.jpg"
+    },
+    {
+        "prompt": "A chef preparing meals in kitchen.",
+        "style_path": "stylepic_single_ref/digital_art_2.jpeg"
+    },
+    {
+        "prompt": "A chef preparing meals in kitchen.",
+        "style_path": "stylepic_single_ref/digital_art_3.png"
+    },
+    {
+        "prompt": "A chef preparing meals in kitchen.",
+        "style_path": "stylepic_single_ref/icon_1.png"
+    },
+    {
+        "prompt": "A chef preparing meals in kitchen.",
+        "style_path": "stylepic_single_ref/illstration_1.jpeg"
+    },
+    {
+        "prompt": "A chef preparing meals in kitchen.",
+        "style_path": "stylepic_single_ref/illustration_2.jpg"
+    },
+    {
+        "prompt": "A chef preparing meals in kitchen.",
+        "style_path": "stylepic_single_ref/ink_1.jpeg"
+    },
+    {
+        "prompt": "A chef preparing meals in kitchen.",
+        "style_path": "stylepic_single_ref/ink_2.jpeg"
+    },
+    {
+        "prompt": "A chef preparing meals in kitchen.",
+        "style_path": "stylepic_single_ref/line_1.jpeg"
+    },
+    {
+        "prompt": "A chef preparing meals in kitchen.",
+        "style_path": "stylepic_single_ref/line_2.jpeg"
+    },
+    {
+        "prompt": "A chef preparing meals in kitchen.",
+        "style_path": "stylepic_single_ref/oil_paint_1.jpeg"
+    },
+    {
+        "prompt": "A chef preparing meals in kitchen.",
+        "style_path": "stylepic_single_ref/oil_paint_2.jpg"
+    },
+    {
+        "prompt": "A chef preparing meals in kitchen.",
+        "style_path": "stylepic_single_ref/oil_paint_3.jpg"
+    },
+    {
+        "prompt": "A chef preparing meals in kitchen.",
+        "style_path": "stylepic_single_ref/ukiyoe.jpg"
+    },
+    {
+        "prompt": "A chef preparing meals in kitchen.",
+        "style_path": "stylepic_single_ref/watercolor_1.png"
+    },
+    {
+        "prompt": "A chef preparing meals in kitchen.",
+        "style_path": "stylepic_single_ref/watercolor_2.jpeg"
+    },
+    {
+        "prompt": "A student walking to school with backpack.",
+        "style_path": "stylepic_single_ref/3d_1.png"
+    },
+    {
+        "prompt": "A student walking to school with backpack.",
+        "style_path": "stylepic_single_ref/anime_1.png"
+    },
+    {
+        "prompt": "A student walking to school with backpack.",
+        "style_path": "stylepic_single_ref/anime_2.jpeg"
+    },
+    {
+        "prompt": "A student walking to school with backpack.",
+        "style_path": "stylepic_single_ref/craft_1.png"
+    },
+    {
+        "prompt": "A student walking to school with backpack.",
+        "style_path": "stylepic_single_ref/digital_art_1.jpg"
+    },
+    {
+        "prompt": "A student walking to school with backpack.",
+        "style_path": "stylepic_single_ref/digital_art_2.jpeg"
+    },
+    {
+        "prompt": "A student walking to school with backpack.",
+        "style_path": "stylepic_single_ref/digital_art_3.png"
+    },
+    {
+        "prompt": "A student walking to school with backpack.",
+        "style_path": "stylepic_single_ref/icon_1.png"
+    },
+    {
+        "prompt": "A student walking to school with backpack.",
+        "style_path": "stylepic_single_ref/illstration_1.jpeg"
+    },
+    {
+        "prompt": "A student walking to school with backpack.",
+        "style_path": "stylepic_single_ref/illustration_2.jpg"
+    },
+    {
+        "prompt": "A student walking to school with backpack.",
+        "style_path": "stylepic_single_ref/ink_1.jpeg"
+    },
+    {
+        "prompt": "A student walking to school with backpack.",
+        "style_path": "stylepic_single_ref/ink_2.jpeg"
+    },
+    {
+        "prompt": "A student walking to school with backpack.",
+        "style_path": "stylepic_single_ref/line_1.jpeg"
+    },
+    {
+        "prompt": "A student walking to school with backpack.",
+        "style_path": "stylepic_single_ref/line_2.jpeg"
+    },
+    {
+        "prompt": "A student walking to school with backpack.",
+        "style_path": "stylepic_single_ref/oil_paint_1.jpeg"
+    },
+    {
+        "prompt": "A student walking to school with backpack.",
+        "style_path": "stylepic_single_ref/oil_paint_2.jpg"
+    },
+    {
+        "prompt": "A student walking to school with backpack.",
+        "style_path": "stylepic_single_ref/oil_paint_3.jpg"
+    },
+    {
+        "prompt": "A student walking to school with backpack.",
+        "style_path": "stylepic_single_ref/ukiyoe.jpg"
+    },
+    {
+        "prompt": "A student walking to school with backpack.",
+        "style_path": "stylepic_single_ref/watercolor_1.png"
+    },
+    {
+        "prompt": "A student walking to school with backpack.",
+        "style_path": "stylepic_single_ref/watercolor_2.jpeg"
+    },
+    {
+        "prompt": "A bear catching fish in a river.",
+        "style_path": "stylepic_single_ref/3d_1.png"
+    },
+    {
+        "prompt": "A bear catching fish in a river.",
+        "style_path": "stylepic_single_ref/anime_1.png"
+    },
+    {
+        "prompt": "A bear catching fish in a river.",
+        "style_path": "stylepic_single_ref/anime_2.jpeg"
+    },
+    {
+        "prompt": "A bear catching fish in a river.",
+        "style_path": "stylepic_single_ref/craft_1.png"
+    },
+    {
+        "prompt": "A bear catching fish in a river.",
+        "style_path": "stylepic_single_ref/digital_art_1.jpg"
+    },
+    {
+        "prompt": "A bear catching fish in a river.",
+        "style_path": "stylepic_single_ref/digital_art_2.jpeg"
+    },
+    {
+        "prompt": "A bear catching fish in a river.",
+        "style_path": "stylepic_single_ref/digital_art_3.png"
+    },
+    {
+        "prompt": "A bear catching fish in a river.",
+        "style_path": "stylepic_single_ref/icon_1.png"
+    },
+    {
+        "prompt": "A bear catching fish in a river.",
+        "style_path": "stylepic_single_ref/illstration_1.jpeg"
+    },
+    {
+        "prompt": "A bear catching fish in a river.",
+        "style_path": "stylepic_single_ref/illustration_2.jpg"
+    },
+    {
+        "prompt": "A bear catching fish in a river.",
+        "style_path": "stylepic_single_ref/ink_1.jpeg"
+    },
+    {
+        "prompt": "A bear catching fish in a river.",
+        "style_path": "stylepic_single_ref/ink_2.jpeg"
+    },
+    {
+        "prompt": "A bear catching fish in a river.",
+        "style_path": "stylepic_single_ref/line_1.jpeg"
+    },
+    {
+        "prompt": "A bear catching fish in a river.",
+        "style_path": "stylepic_single_ref/line_2.jpeg"
+    },
+    {
+        "prompt": "A bear catching fish in a river.",
+        "style_path": "stylepic_single_ref/oil_paint_1.jpeg"
+    },
+    {
+        "prompt": "A bear catching fish in a river.",
+        "style_path": "stylepic_single_ref/oil_paint_2.jpg"
+    },
+    {
+        "prompt": "A bear catching fish in a river.",
+        "style_path": "stylepic_single_ref/oil_paint_3.jpg"
+    },
+    {
+        "prompt": "A bear catching fish in a river.",
+        "style_path": "stylepic_single_ref/ukiyoe.jpg"
+    },
+    {
+        "prompt": "A bear catching fish in a river.",
+        "style_path": "stylepic_single_ref/watercolor_1.png"
+    },
+    {
+        "prompt": "A bear catching fish in a river.",
+        "style_path": "stylepic_single_ref/watercolor_2.jpeg"
+    },
+    {
+        "prompt": "A knight riding a horse through a field.",
+        "style_path": "stylepic_single_ref/3d_1.png"
+    },
+    {
+        "prompt": "A knight riding a horse through a field.",
+        "style_path": "stylepic_single_ref/anime_1.png"
+    },
+    {
+        "prompt": "A knight riding a horse through a field.",
+        "style_path": "stylepic_single_ref/anime_2.jpeg"
+    },
+    {
+        "prompt": "A knight riding a horse through a field.",
+        "style_path": "stylepic_single_ref/craft_1.png"
+    },
+    {
+        "prompt": "A knight riding a horse through a field.",
+        "style_path": "stylepic_single_ref/digital_art_1.jpg"
+    },
+    {
+        "prompt": "A knight riding a horse through a field.",
+        "style_path": "stylepic_single_ref/digital_art_2.jpeg"
+    },
+    {
+        "prompt": "A knight riding a horse through a field.",
+        "style_path": "stylepic_single_ref/digital_art_3.png"
+    },
+    {
+        "prompt": "A knight riding a horse through a field.",
+        "style_path": "stylepic_single_ref/icon_1.png"
+    },
+    {
+        "prompt": "A knight riding a horse through a field.",
+        "style_path": "stylepic_single_ref/illstration_1.jpeg"
+    },
+    {
+        "prompt": "A knight riding a horse through a field.",
+        "style_path": "stylepic_single_ref/illustration_2.jpg"
+    },
+    {
+        "prompt": "A knight riding a horse through a field.",
+        "style_path": "stylepic_single_ref/ink_1.jpeg"
+    },
+    {
+        "prompt": "A knight riding a horse through a field.",
+        "style_path": "stylepic_single_ref/ink_2.jpeg"
+    },
+    {
+        "prompt": "A knight riding a horse through a field.",
+        "style_path": "stylepic_single_ref/line_1.jpeg"
+    },
+    {
+        "prompt": "A knight riding a horse through a field.",
+        "style_path": "stylepic_single_ref/line_2.jpeg"
+    },
+    {
+        "prompt": "A knight riding a horse through a field.",
+        "style_path": "stylepic_single_ref/oil_paint_1.jpeg"
+    },
+    {
+        "prompt": "A knight riding a horse through a field.",
+        "style_path": "stylepic_single_ref/oil_paint_2.jpg"
+    },
+    {
+        "prompt": "A knight riding a horse through a field.",
+        "style_path": "stylepic_single_ref/oil_paint_3.jpg"
+    },
+    {
+        "prompt": "A knight riding a horse through a field.",
+        "style_path": "stylepic_single_ref/ukiyoe.jpg"
+    },
+    {
+        "prompt": "A knight riding a horse through a field.",
+        "style_path": "stylepic_single_ref/watercolor_1.png"
+    },
+    {
+        "prompt": "A knight riding a horse through a field.",
+        "style_path": "stylepic_single_ref/watercolor_2.jpeg"
+    },
+    {
+        "prompt": "A wolf walking stealthily through the forest.",
+        "style_path": "stylepic_single_ref/3d_1.png"
+    },
+    {
+        "prompt": "A wolf walking stealthily through the forest.",
+        "style_path": "stylepic_single_ref/anime_1.png"
+    },
+    {
+        "prompt": "A wolf walking stealthily through the forest.",
+        "style_path": "stylepic_single_ref/anime_2.jpeg"
+    },
+    {
+        "prompt": "A wolf walking stealthily through the forest.",
+        "style_path": "stylepic_single_ref/craft_1.png"
+    },
+    {
+        "prompt": "A wolf walking stealthily through the forest.",
+        "style_path": "stylepic_single_ref/digital_art_1.jpg"
+    },
+    {
+        "prompt": "A wolf walking stealthily through the forest.",
+        "style_path": "stylepic_single_ref/digital_art_2.jpeg"
+    },
+    {
+        "prompt": "A wolf walking stealthily through the forest.",
+        "style_path": "stylepic_single_ref/digital_art_3.png"
+    },
+    {
+        "prompt": "A wolf walking stealthily through the forest.",
+        "style_path": "stylepic_single_ref/icon_1.png"
+    },
+    {
+        "prompt": "A wolf walking stealthily through the forest.",
+        "style_path": "stylepic_single_ref/illstration_1.jpeg"
+    },
+    {
+        "prompt": "A wolf walking stealthily through the forest.",
+        "style_path": "stylepic_single_ref/illustration_2.jpg"
+    },
+    {
+        "prompt": "A wolf walking stealthily through the forest.",
+        "style_path": "stylepic_single_ref/ink_1.jpeg"
+    },
+    {
+        "prompt": "A wolf walking stealthily through the forest.",
+        "style_path": "stylepic_single_ref/ink_2.jpeg"
+    },
+    {
+        "prompt": "A wolf walking stealthily through the forest.",
+        "style_path": "stylepic_single_ref/line_1.jpeg"
+    },
+    {
+        "prompt": "A wolf walking stealthily through the forest.",
+        "style_path": "stylepic_single_ref/line_2.jpeg"
+    },
+    {
+        "prompt": "A wolf walking stealthily through the forest.",
+        "style_path": "stylepic_single_ref/oil_paint_1.jpeg"
+    },
+    {
+        "prompt": "A wolf walking stealthily through the forest.",
+        "style_path": "stylepic_single_ref/oil_paint_2.jpg"
+    },
+    {
+        "prompt": "A wolf walking stealthily through the forest.",
+        "style_path": "stylepic_single_ref/oil_paint_3.jpg"
+    },
+    {
+        "prompt": "A wolf walking stealthily through the forest.",
+        "style_path": "stylepic_single_ref/ukiyoe.jpg"
+    },
+    {
+        "prompt": "A wolf walking stealthily through the forest.",
+        "style_path": "stylepic_single_ref/watercolor_1.png"
+    },
+    {
+        "prompt": "A wolf walking stealthily through the forest.",
+        "style_path": "stylepic_single_ref/watercolor_2.jpeg"
+    },
+    {
+        "prompt": "A campfire surrounded by tents.",
+        "style_path": "stylepic_single_ref/3d_1.png"
+    },
+    {
+        "prompt": "A campfire surrounded by tents.",
+        "style_path": "stylepic_single_ref/anime_1.png"
+    },
+    {
+        "prompt": "A campfire surrounded by tents.",
+        "style_path": "stylepic_single_ref/anime_2.jpeg"
+    },
+    {
+        "prompt": "A campfire surrounded by tents.",
+        "style_path": "stylepic_single_ref/craft_1.png"
+    },
+    {
+        "prompt": "A campfire surrounded by tents.",
+        "style_path": "stylepic_single_ref/digital_art_1.jpg"
+    },
+    {
+        "prompt": "A campfire surrounded by tents.",
+        "style_path": "stylepic_single_ref/digital_art_2.jpeg"
+    },
+    {
+        "prompt": "A campfire surrounded by tents.",
+        "style_path": "stylepic_single_ref/digital_art_3.png"
+    },
+    {
+        "prompt": "A campfire surrounded by tents.",
+        "style_path": "stylepic_single_ref/icon_1.png"
+    },
+    {
+        "prompt": "A campfire surrounded by tents.",
+        "style_path": "stylepic_single_ref/illstration_1.jpeg"
+    },
+    {
+        "prompt": "A campfire surrounded by tents.",
+        "style_path": "stylepic_single_ref/illustration_2.jpg"
+    },
+    {
+        "prompt": "A campfire surrounded by tents.",
+        "style_path": "stylepic_single_ref/ink_1.jpeg"
+    },
+    {
+        "prompt": "A campfire surrounded by tents.",
+        "style_path": "stylepic_single_ref/ink_2.jpeg"
+    },
+    {
+        "prompt": "A campfire surrounded by tents.",
+        "style_path": "stylepic_single_ref/line_1.jpeg"
+    },
+    {
+        "prompt": "A campfire surrounded by tents.",
+        "style_path": "stylepic_single_ref/line_2.jpeg"
+    },
+    {
+        "prompt": "A campfire surrounded by tents.",
+        "style_path": "stylepic_single_ref/oil_paint_1.jpeg"
+    },
+    {
+        "prompt": "A campfire surrounded by tents.",
+        "style_path": "stylepic_single_ref/oil_paint_2.jpg"
+    },
+    {
+        "prompt": "A campfire surrounded by tents.",
+        "style_path": "stylepic_single_ref/oil_paint_3.jpg"
+    },
+    {
+        "prompt": "A campfire surrounded by tents.",
+        "style_path": "stylepic_single_ref/ukiyoe.jpg"
+    },
+    {
+        "prompt": "A campfire surrounded by tents.",
+        "style_path": "stylepic_single_ref/watercolor_1.png"
+    },
+    {
+        "prompt": "A campfire surrounded by tents.",
+        "style_path": "stylepic_single_ref/watercolor_2.jpeg"
+    },
+    {
+        "prompt": "A hot air balloon floating in the sky.",
+        "style_path": "stylepic_single_ref/3d_1.png"
+    },
+    {
+        "prompt": "A hot air balloon floating in the sky.",
+        "style_path": "stylepic_single_ref/anime_1.png"
+    },
+    {
+        "prompt": "A hot air balloon floating in the sky.",
+        "style_path": "stylepic_single_ref/anime_2.jpeg"
+    },
+    {
+        "prompt": "A hot air balloon floating in the sky.",
+        "style_path": "stylepic_single_ref/craft_1.png"
+    },
+    {
+        "prompt": "A hot air balloon floating in the sky.",
+        "style_path": "stylepic_single_ref/digital_art_1.jpg"
+    },
+    {
+        "prompt": "A hot air balloon floating in the sky.",
+        "style_path": "stylepic_single_ref/digital_art_2.jpeg"
+    },
+    {
+        "prompt": "A hot air balloon floating in the sky.",
+        "style_path": "stylepic_single_ref/digital_art_3.png"
+    },
+    {
+        "prompt": "A hot air balloon floating in the sky.",
+        "style_path": "stylepic_single_ref/icon_1.png"
+    },
+    {
+        "prompt": "A hot air balloon floating in the sky.",
+        "style_path": "stylepic_single_ref/illstration_1.jpeg"
+    },
+    {
+        "prompt": "A hot air balloon floating in the sky.",
+        "style_path": "stylepic_single_ref/illustration_2.jpg"
+    },
+    {
+        "prompt": "A hot air balloon floating in the sky.",
+        "style_path": "stylepic_single_ref/ink_1.jpeg"
+    },
+    {
+        "prompt": "A hot air balloon floating in the sky.",
+        "style_path": "stylepic_single_ref/ink_2.jpeg"
+    },
+    {
+        "prompt": "A hot air balloon floating in the sky.",
+        "style_path": "stylepic_single_ref/line_1.jpeg"
+    },
+    {
+        "prompt": "A hot air balloon floating in the sky.",
+        "style_path": "stylepic_single_ref/line_2.jpeg"
+    },
+    {
+        "prompt": "A hot air balloon floating in the sky.",
+        "style_path": "stylepic_single_ref/oil_paint_1.jpeg"
+    },
+    {
+        "prompt": "A hot air balloon floating in the sky.",
+        "style_path": "stylepic_single_ref/oil_paint_2.jpg"
+    },
+    {
+        "prompt": "A hot air balloon floating in the sky.",
+        "style_path": "stylepic_single_ref/oil_paint_3.jpg"
+    },
+    {
+        "prompt": "A hot air balloon floating in the sky.",
+        "style_path": "stylepic_single_ref/ukiyoe.jpg"
+    },
+    {
+        "prompt": "A hot air balloon floating in the sky.",
+        "style_path": "stylepic_single_ref/watercolor_1.png"
+    },
+    {
+        "prompt": "A hot air balloon floating in the sky.",
+        "style_path": "stylepic_single_ref/watercolor_2.jpeg"
+    },
+    {
+        "prompt": "A wooden sailboat docked in a harbor.",
+        "style_path": "stylepic_single_ref/3d_1.png"
+    },
+    {
+        "prompt": "A wooden sailboat docked in a harbor.",
+        "style_path": "stylepic_single_ref/anime_1.png"
+    },
+    {
+        "prompt": "A wooden sailboat docked in a harbor.",
+        "style_path": "stylepic_single_ref/anime_2.jpeg"
+    },
+    {
+        "prompt": "A wooden sailboat docked in a harbor.",
+        "style_path": "stylepic_single_ref/craft_1.png"
+    },
+    {
+        "prompt": "A wooden sailboat docked in a harbor.",
+        "style_path": "stylepic_single_ref/digital_art_1.jpg"
+    },
+    {
+        "prompt": "A wooden sailboat docked in a harbor.",
+        "style_path": "stylepic_single_ref/digital_art_2.jpeg"
+    },
+    {
+        "prompt": "A wooden sailboat docked in a harbor.",
+        "style_path": "stylepic_single_ref/digital_art_3.png"
+    },
+    {
+        "prompt": "A wooden sailboat docked in a harbor.",
+        "style_path": "stylepic_single_ref/icon_1.png"
+    },
+    {
+        "prompt": "A wooden sailboat docked in a harbor.",
+        "style_path": "stylepic_single_ref/illstration_1.jpeg"
+    },
+    {
+        "prompt": "A wooden sailboat docked in a harbor.",
+        "style_path": "stylepic_single_ref/illustration_2.jpg"
+    },
+    {
+        "prompt": "A wooden sailboat docked in a harbor.",
+        "style_path": "stylepic_single_ref/ink_1.jpeg"
+    },
+    {
+        "prompt": "A wooden sailboat docked in a harbor.",
+        "style_path": "stylepic_single_ref/ink_2.jpeg"
+    },
+    {
+        "prompt": "A wooden sailboat docked in a harbor.",
+        "style_path": "stylepic_single_ref/line_1.jpeg"
+    },
+    {
+        "prompt": "A wooden sailboat docked in a harbor.",
+        "style_path": "stylepic_single_ref/line_2.jpeg"
+    },
+    {
+        "prompt": "A wooden sailboat docked in a harbor.",
+        "style_path": "stylepic_single_ref/oil_paint_1.jpeg"
+    },
+    {
+        "prompt": "A wooden sailboat docked in a harbor.",
+        "style_path": "stylepic_single_ref/oil_paint_2.jpg"
+    },
+    {
+        "prompt": "A wooden sailboat docked in a harbor.",
+        "style_path": "stylepic_single_ref/oil_paint_3.jpg"
+    },
+    {
+        "prompt": "A wooden sailboat docked in a harbor.",
+        "style_path": "stylepic_single_ref/ukiyoe.jpg"
+    },
+    {
+        "prompt": "A wooden sailboat docked in a harbor.",
+        "style_path": "stylepic_single_ref/watercolor_1.png"
+    },
+    {
+        "prompt": "A wooden sailboat docked in a harbor.",
+        "style_path": "stylepic_single_ref/watercolor_2.jpeg"
+    },
+    {
+        "prompt": "A river flowing gently under a bridge.",
+        "style_path": "stylepic_single_ref/3d_1.png"
+    },
+    {
+        "prompt": "A river flowing gently under a bridge.",
+        "style_path": "stylepic_single_ref/anime_1.png"
+    },
+    {
+        "prompt": "A river flowing gently under a bridge.",
+        "style_path": "stylepic_single_ref/anime_2.jpeg"
+    },
+    {
+        "prompt": "A river flowing gently under a bridge.",
+        "style_path": "stylepic_single_ref/craft_1.png"
+    },
+    {
+        "prompt": "A river flowing gently under a bridge.",
+        "style_path": "stylepic_single_ref/digital_art_1.jpg"
+    },
+    {
+        "prompt": "A river flowing gently under a bridge.",
+        "style_path": "stylepic_single_ref/digital_art_2.jpeg"
+    },
+    {
+        "prompt": "A river flowing gently under a bridge.",
+        "style_path": "stylepic_single_ref/digital_art_3.png"
+    },
+    {
+        "prompt": "A river flowing gently under a bridge.",
+        "style_path": "stylepic_single_ref/icon_1.png"
+    },
+    {
+        "prompt": "A river flowing gently under a bridge.",
+        "style_path": "stylepic_single_ref/illstration_1.jpeg"
+    },
+    {
+        "prompt": "A river flowing gently under a bridge.",
+        "style_path": "stylepic_single_ref/illustration_2.jpg"
+    },
+    {
+        "prompt": "A river flowing gently under a bridge.",
+        "style_path": "stylepic_single_ref/ink_1.jpeg"
+    },
+    {
+        "prompt": "A river flowing gently under a bridge.",
+        "style_path": "stylepic_single_ref/ink_2.jpeg"
+    },
+    {
+        "prompt": "A river flowing gently under a bridge.",
+        "style_path": "stylepic_single_ref/line_1.jpeg"
+    },
+    {
+        "prompt": "A river flowing gently under a bridge.",
+        "style_path": "stylepic_single_ref/line_2.jpeg"
+    },
+    {
+        "prompt": "A river flowing gently under a bridge.",
+        "style_path": "stylepic_single_ref/oil_paint_1.jpeg"
+    },
+    {
+        "prompt": "A river flowing gently under a bridge.",
+        "style_path": "stylepic_single_ref/oil_paint_2.jpg"
+    },
+    {
+        "prompt": "A river flowing gently under a bridge.",
+        "style_path": "stylepic_single_ref/oil_paint_3.jpg"
+    },
+    {
+        "prompt": "A river flowing gently under a bridge.",
+        "style_path": "stylepic_single_ref/ukiyoe.jpg"
+    },
+    {
+        "prompt": "A river flowing gently under a bridge.",
+        "style_path": "stylepic_single_ref/watercolor_1.png"
+    },
+    {
+        "prompt": "A river flowing gently under a bridge.",
+        "style_path": "stylepic_single_ref/watercolor_2.jpeg"
+    },
+    {
+        "prompt": "A field of sunflowers on a sunny day.",
+        "style_path": "stylepic_single_ref/3d_1.png"
+    },
+    {
+        "prompt": "A field of sunflowers on a sunny day.",
+        "style_path": "stylepic_single_ref/anime_1.png"
+    },
+    {
+        "prompt": "A field of sunflowers on a sunny day.",
+        "style_path": "stylepic_single_ref/anime_2.jpeg"
+    },
+    {
+        "prompt": "A field of sunflowers on a sunny day.",
+        "style_path": "stylepic_single_ref/craft_1.png"
+    },
+    {
+        "prompt": "A field of sunflowers on a sunny day.",
+        "style_path": "stylepic_single_ref/digital_art_1.jpg"
+    },
+    {
+        "prompt": "A field of sunflowers on a sunny day.",
+        "style_path": "stylepic_single_ref/digital_art_2.jpeg"
+    },
+    {
+        "prompt": "A field of sunflowers on a sunny day.",
+        "style_path": "stylepic_single_ref/digital_art_3.png"
+    },
+    {
+        "prompt": "A field of sunflowers on a sunny day.",
+        "style_path": "stylepic_single_ref/icon_1.png"
+    },
+    {
+        "prompt": "A field of sunflowers on a sunny day.",
+        "style_path": "stylepic_single_ref/illstration_1.jpeg"
+    },
+    {
+        "prompt": "A field of sunflowers on a sunny day.",
+        "style_path": "stylepic_single_ref/illustration_2.jpg"
+    },
+    {
+        "prompt": "A field of sunflowers on a sunny day.",
+        "style_path": "stylepic_single_ref/ink_1.jpeg"
+    },
+    {
+        "prompt": "A field of sunflowers on a sunny day.",
+        "style_path": "stylepic_single_ref/ink_2.jpeg"
+    },
+    {
+        "prompt": "A field of sunflowers on a sunny day.",
+        "style_path": "stylepic_single_ref/line_1.jpeg"
+    },
+    {
+        "prompt": "A field of sunflowers on a sunny day.",
+        "style_path": "stylepic_single_ref/line_2.jpeg"
+    },
+    {
+        "prompt": "A field of sunflowers on a sunny day.",
+        "style_path": "stylepic_single_ref/oil_paint_1.jpeg"
+    },
+    {
+        "prompt": "A field of sunflowers on a sunny day.",
+        "style_path": "stylepic_single_ref/oil_paint_2.jpg"
+    },
+    {
+        "prompt": "A field of sunflowers on a sunny day.",
+        "style_path": "stylepic_single_ref/oil_paint_3.jpg"
+    },
+    {
+        "prompt": "A field of sunflowers on a sunny day.",
+        "style_path": "stylepic_single_ref/ukiyoe.jpg"
+    },
+    {
+        "prompt": "A field of sunflowers on a sunny day.",
+        "style_path": "stylepic_single_ref/watercolor_1.png"
+    },
+    {
+        "prompt": "A field of sunflowers on a sunny day.",
+        "style_path": "stylepic_single_ref/watercolor_2.jpeg"
+    },
+    {
+        "prompt": "A rocketship heading towards the moon.",
+        "style_path": "stylepic_single_ref/3d_1.png"
+    },
+    {
+        "prompt": "A rocketship heading towards the moon.",
+        "style_path": "stylepic_single_ref/anime_1.png"
+    },
+    {
+        "prompt": "A rocketship heading towards the moon.",
+        "style_path": "stylepic_single_ref/anime_2.jpeg"
+    },
+    {
+        "prompt": "A rocketship heading towards the moon.",
+        "style_path": "stylepic_single_ref/craft_1.png"
+    },
+    {
+        "prompt": "A rocketship heading towards the moon.",
+        "style_path": "stylepic_single_ref/digital_art_1.jpg"
+    },
+    {
+        "prompt": "A rocketship heading towards the moon.",
+        "style_path": "stylepic_single_ref/digital_art_2.jpeg"
+    },
+    {
+        "prompt": "A rocketship heading towards the moon.",
+        "style_path": "stylepic_single_ref/digital_art_3.png"
+    },
+    {
+        "prompt": "A rocketship heading towards the moon.",
+        "style_path": "stylepic_single_ref/icon_1.png"
+    },
+    {
+        "prompt": "A rocketship heading towards the moon.",
+        "style_path": "stylepic_single_ref/illstration_1.jpeg"
+    },
+    {
+        "prompt": "A rocketship heading towards the moon.",
+        "style_path": "stylepic_single_ref/illustration_2.jpg"
+    },
+    {
+        "prompt": "A rocketship heading towards the moon.",
+        "style_path": "stylepic_single_ref/ink_1.jpeg"
+    },
+    {
+        "prompt": "A rocketship heading towards the moon.",
+        "style_path": "stylepic_single_ref/ink_2.jpeg"
+    },
+    {
+        "prompt": "A rocketship heading towards the moon.",
+        "style_path": "stylepic_single_ref/line_1.jpeg"
+    },
+    {
+        "prompt": "A rocketship heading towards the moon.",
+        "style_path": "stylepic_single_ref/line_2.jpeg"
+    },
+    {
+        "prompt": "A rocketship heading towards the moon.",
+        "style_path": "stylepic_single_ref/oil_paint_1.jpeg"
+    },
+    {
+        "prompt": "A rocketship heading towards the moon.",
+        "style_path": "stylepic_single_ref/oil_paint_2.jpg"
+    },
+    {
+        "prompt": "A rocketship heading towards the moon.",
+        "style_path": "stylepic_single_ref/oil_paint_3.jpg"
+    },
+    {
+        "prompt": "A rocketship heading towards the moon.",
+        "style_path": "stylepic_single_ref/ukiyoe.jpg"
+    },
+    {
+        "prompt": "A rocketship heading towards the moon.",
+        "style_path": "stylepic_single_ref/watercolor_1.png"
+    },
+    {
+        "prompt": "A rocketship heading towards the moon.",
+        "style_path": "stylepic_single_ref/watercolor_2.jpeg"
+    }
+]

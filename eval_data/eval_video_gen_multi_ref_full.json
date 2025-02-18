@@ -1,0 +1,662 @@
+[
+    {
+        "prompt": "A street performer playing the guitar.",
+        "style_path": [
+            "stylepic_multi_ref/style1/0.jpeg",
+            "stylepic_multi_ref/style1/1.jpeg",
+            "stylepic_multi_ref/style1/2.jpeg",
+            "stylepic_multi_ref/style1/3.jpeg",
+            "stylepic_multi_ref/style1/4.jpeg",
+            "stylepic_multi_ref/style1/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A street performer playing the guitar.",
+        "style_path": [
+            "stylepic_multi_ref/style2/0.jpeg",
+            "stylepic_multi_ref/style2/1.jpeg",
+            "stylepic_multi_ref/style2/2.jpeg",
+            "stylepic_multi_ref/style2/3.jpeg",
+            "stylepic_multi_ref/style2/4.jpeg"
+        ]
+    },
+    {
+        "prompt": "A street performer playing the guitar.",
+        "style_path": [
+            "stylepic_multi_ref/style3/0.jpeg",
+            "stylepic_multi_ref/style3/1.jpeg",
+            "stylepic_multi_ref/style3/2.jpeg",
+            "stylepic_multi_ref/style3/3.jpeg",
+            "stylepic_multi_ref/style3/4.jpeg",
+            "stylepic_multi_ref/style3/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A street performer playing the guitar.",
+        "style_path": [
+            "stylepic_multi_ref/style4/0.jpeg",
+            "stylepic_multi_ref/style4/1.jpeg",
+            "stylepic_multi_ref/style4/2.jpeg",
+            "stylepic_multi_ref/style4/3.jpeg",
+            "stylepic_multi_ref/style4/4.jpeg",
+            "stylepic_multi_ref/style4/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A street performer playing the guitar.",
+        "style_path": [
+            "stylepic_multi_ref/style5/0.jpeg",
+            "stylepic_multi_ref/style5/1.jpeg",
+            "stylepic_multi_ref/style5/2.jpeg",
+            "stylepic_multi_ref/style5/3.jpeg",
+            "stylepic_multi_ref/style5/4.jpeg",
+            "stylepic_multi_ref/style5/5.jpeg",
+            "stylepic_multi_ref/style5/6.jpeg"
+        ]
+    },
+    {
+        "prompt": "A chef preparing meals in kitchen.",
+        "style_path": [
+            "stylepic_multi_ref/style1/0.jpeg",
+            "stylepic_multi_ref/style1/1.jpeg",
+            "stylepic_multi_ref/style1/2.jpeg",
+            "stylepic_multi_ref/style1/3.jpeg",
+            "stylepic_multi_ref/style1/4.jpeg",
+            "stylepic_multi_ref/style1/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A chef preparing meals in kitchen.",
+        "style_path": [
+            "stylepic_multi_ref/style2/0.jpeg",
+            "stylepic_multi_ref/style2/1.jpeg",
+            "stylepic_multi_ref/style2/2.jpeg",
+            "stylepic_multi_ref/style2/3.jpeg",
+            "stylepic_multi_ref/style2/4.jpeg"
+        ]
+    },
+    {
+        "prompt": "A chef preparing meals in kitchen.",
+        "style_path": [
+            "stylepic_multi_ref/style3/0.jpeg",
+            "stylepic_multi_ref/style3/1.jpeg",
+            "stylepic_multi_ref/style3/2.jpeg",
+            "stylepic_multi_ref/style3/3.jpeg",
+            "stylepic_multi_ref/style3/4.jpeg",
+            "stylepic_multi_ref/style3/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A chef preparing meals in kitchen.",
+        "style_path": [
+            "stylepic_multi_ref/style4/0.jpeg",
+            "stylepic_multi_ref/style4/1.jpeg",
+            "stylepic_multi_ref/style4/2.jpeg",
+            "stylepic_multi_ref/style4/3.jpeg",
+            "stylepic_multi_ref/style4/4.jpeg",
+            "stylepic_multi_ref/style4/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A chef preparing meals in kitchen.",
+        "style_path": [
+            "stylepic_multi_ref/style5/0.jpeg",
+            "stylepic_multi_ref/style5/1.jpeg",
+            "stylepic_multi_ref/style5/2.jpeg",
+            "stylepic_multi_ref/style5/3.jpeg",
+            "stylepic_multi_ref/style5/4.jpeg",
+            "stylepic_multi_ref/style5/5.jpeg",
+            "stylepic_multi_ref/style5/6.jpeg"
+        ]
+    },
+    {
+        "prompt": "A student walking to school with backpack.",
+        "style_path": [
+            "stylepic_multi_ref/style1/0.jpeg",
+            "stylepic_multi_ref/style1/1.jpeg",
+            "stylepic_multi_ref/style1/2.jpeg",
+            "stylepic_multi_ref/style1/3.jpeg",
+            "stylepic_multi_ref/style1/4.jpeg",
+            "stylepic_multi_ref/style1/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A student walking to school with backpack.",
+        "style_path": [
+            "stylepic_multi_ref/style2/0.jpeg",
+            "stylepic_multi_ref/style2/1.jpeg",
+            "stylepic_multi_ref/style2/2.jpeg",
+            "stylepic_multi_ref/style2/3.jpeg",
+            "stylepic_multi_ref/style2/4.jpeg"
+        ]
+    },
+    {
+        "prompt": "A student walking to school with backpack.",
+        "style_path": [
+            "stylepic_multi_ref/style3/0.jpeg",
+            "stylepic_multi_ref/style3/1.jpeg",
+            "stylepic_multi_ref/style3/2.jpeg",
+            "stylepic_multi_ref/style3/3.jpeg",
+            "stylepic_multi_ref/style3/4.jpeg",
+            "stylepic_multi_ref/style3/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A student walking to school with backpack.",
+        "style_path": [
+            "stylepic_multi_ref/style4/0.jpeg",
+            "stylepic_multi_ref/style4/1.jpeg",
+            "stylepic_multi_ref/style4/2.jpeg",
+            "stylepic_multi_ref/style4/3.jpeg",
+            "stylepic_multi_ref/style4/4.jpeg",
+            "stylepic_multi_ref/style4/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A student walking to school with backpack.",
+        "style_path": [
+            "stylepic_multi_ref/style5/0.jpeg",
+            "stylepic_multi_ref/style5/1.jpeg",
+            "stylepic_multi_ref/style5/2.jpeg",
+            "stylepic_multi_ref/style5/3.jpeg",
+            "stylepic_multi_ref/style5/4.jpeg",
+            "stylepic_multi_ref/style5/5.jpeg",
+            "stylepic_multi_ref/style5/6.jpeg"
+        ]
+    },
+    {
+        "prompt": "A bear catching fish in a river.",
+        "style_path": [
+            "stylepic_multi_ref/style1/0.jpeg",
+            "stylepic_multi_ref/style1/1.jpeg",
+            "stylepic_multi_ref/style1/2.jpeg",
+            "stylepic_multi_ref/style1/3.jpeg",
+            "stylepic_multi_ref/style1/4.jpeg",
+            "stylepic_multi_ref/style1/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A bear catching fish in a river.",
+        "style_path": [
+            "stylepic_multi_ref/style2/0.jpeg",
+            "stylepic_multi_ref/style2/1.jpeg",
+            "stylepic_multi_ref/style2/2.jpeg",
+            "stylepic_multi_ref/style2/3.jpeg",
+            "stylepic_multi_ref/style2/4.jpeg"
+        ]
+    },
+    {
+        "prompt": "A bear catching fish in a river.",
+        "style_path": [
+            "stylepic_multi_ref/style3/0.jpeg",
+            "stylepic_multi_ref/style3/1.jpeg",
+            "stylepic_multi_ref/style3/2.jpeg",
+            "stylepic_multi_ref/style3/3.jpeg",
+            "stylepic_multi_ref/style3/4.jpeg",
+            "stylepic_multi_ref/style3/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A bear catching fish in a river.",
+        "style_path": [
+            "stylepic_multi_ref/style4/0.jpeg",
+            "stylepic_multi_ref/style4/1.jpeg",
+            "stylepic_multi_ref/style4/2.jpeg",
+            "stylepic_multi_ref/style4/3.jpeg",
+            "stylepic_multi_ref/style4/4.jpeg",
+            "stylepic_multi_ref/style4/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A bear catching fish in a river.",
+        "style_path": [
+            "stylepic_multi_ref/style5/0.jpeg",
+            "stylepic_multi_ref/style5/1.jpeg",
+            "stylepic_multi_ref/style5/2.jpeg",
+            "stylepic_multi_ref/style5/3.jpeg",
+            "stylepic_multi_ref/style5/4.jpeg",
+            "stylepic_multi_ref/style5/5.jpeg",
+            "stylepic_multi_ref/style5/6.jpeg"
+        ]
+    },
+    {
+        "prompt": "A knight riding a horse through a field.",
+        "style_path": [
+            "stylepic_multi_ref/style1/0.jpeg",
+            "stylepic_multi_ref/style1/1.jpeg",
+            "stylepic_multi_ref/style1/2.jpeg",
+            "stylepic_multi_ref/style1/3.jpeg",
+            "stylepic_multi_ref/style1/4.jpeg",
+            "stylepic_multi_ref/style1/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A knight riding a horse through a field.",
+        "style_path": [
+            "stylepic_multi_ref/style2/0.jpeg",
+            "stylepic_multi_ref/style2/1.jpeg",
+            "stylepic_multi_ref/style2/2.jpeg",
+            "stylepic_multi_ref/style2/3.jpeg",
+            "stylepic_multi_ref/style2/4.jpeg"
+        ]
+    },
+    {
+        "prompt": "A knight riding a horse through a field.",
+        "style_path": [
+            "stylepic_multi_ref/style3/0.jpeg",
+            "stylepic_multi_ref/style3/1.jpeg",
+            "stylepic_multi_ref/style3/2.jpeg",
+            "stylepic_multi_ref/style3/3.jpeg",
+            "stylepic_multi_ref/style3/4.jpeg",
+            "stylepic_multi_ref/style3/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A knight riding a horse through a field.",
+        "style_path": [
+            "stylepic_multi_ref/style4/0.jpeg",
+            "stylepic_multi_ref/style4/1.jpeg",
+            "stylepic_multi_ref/style4/2.jpeg",
+            "stylepic_multi_ref/style4/3.jpeg",
+            "stylepic_multi_ref/style4/4.jpeg",
+            "stylepic_multi_ref/style4/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A knight riding a horse through a field.",
+        "style_path": [
+            "stylepic_multi_ref/style5/0.jpeg",
+            "stylepic_multi_ref/style5/1.jpeg",
+            "stylepic_multi_ref/style5/2.jpeg",
+            "stylepic_multi_ref/style5/3.jpeg",
+            "stylepic_multi_ref/style5/4.jpeg",
+            "stylepic_multi_ref/style5/5.jpeg",
+            "stylepic_multi_ref/style5/6.jpeg"
+        ]
+    },
+    {
+        "prompt": "A wolf walking stealthily through the forest.",
+        "style_path": [
+            "stylepic_multi_ref/style1/0.jpeg",
+            "stylepic_multi_ref/style1/1.jpeg",
+            "stylepic_multi_ref/style1/2.jpeg",
+            "stylepic_multi_ref/style1/3.jpeg",
+            "stylepic_multi_ref/style1/4.jpeg",
+            "stylepic_multi_ref/style1/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A wolf walking stealthily through the forest.",
+        "style_path": [
+            "stylepic_multi_ref/style2/0.jpeg",
+            "stylepic_multi_ref/style2/1.jpeg",
+            "stylepic_multi_ref/style2/2.jpeg",
+            "stylepic_multi_ref/style2/3.jpeg",
+            "stylepic_multi_ref/style2/4.jpeg"
+        ]
+    },
+    {
+        "prompt": "A wolf walking stealthily through the forest.",
+        "style_path": [
+            "stylepic_multi_ref/style3/0.jpeg",
+            "stylepic_multi_ref/style3/1.jpeg",
+            "stylepic_multi_ref/style3/2.jpeg",
+            "stylepic_multi_ref/style3/3.jpeg",
+            "stylepic_multi_ref/style3/4.jpeg",
+            "stylepic_multi_ref/style3/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A wolf walking stealthily through the forest.",
+        "style_path": [
+            "stylepic_multi_ref/style4/0.jpeg",
+            "stylepic_multi_ref/style4/1.jpeg",
+            "stylepic_multi_ref/style4/2.jpeg",
+            "stylepic_multi_ref/style4/3.jpeg",
+            "stylepic_multi_ref/style4/4.jpeg",
+            "stylepic_multi_ref/style4/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A wolf walking stealthily through the forest.",
+        "style_path": [
+            "stylepic_multi_ref/style5/0.jpeg",
+            "stylepic_multi_ref/style5/1.jpeg",
+            "stylepic_multi_ref/style5/2.jpeg",
+            "stylepic_multi_ref/style5/3.jpeg",
+            "stylepic_multi_ref/style5/4.jpeg",
+            "stylepic_multi_ref/style5/5.jpeg",
+            "stylepic_multi_ref/style5/6.jpeg"
+        ]
+    },
+    {
+        "prompt": "A campfire surrounded by tents.",
+        "style_path": [
+            "stylepic_multi_ref/style1/0.jpeg",
+            "stylepic_multi_ref/style1/1.jpeg",
+            "stylepic_multi_ref/style1/2.jpeg",
+            "stylepic_multi_ref/style1/3.jpeg",
+            "stylepic_multi_ref/style1/4.jpeg",
+            "stylepic_multi_ref/style1/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A campfire surrounded by tents.",
+        "style_path": [
+            "stylepic_multi_ref/style2/0.jpeg",
+            "stylepic_multi_ref/style2/1.jpeg",
+            "stylepic_multi_ref/style2/2.jpeg",
+            "stylepic_multi_ref/style2/3.jpeg",
+            "stylepic_multi_ref/style2/4.jpeg"
+        ]
+    },
+    {
+        "prompt": "A campfire surrounded by tents.",
+        "style_path": [
+            "stylepic_multi_ref/style3/0.jpeg",
+            "stylepic_multi_ref/style3/1.jpeg",
+            "stylepic_multi_ref/style3/2.jpeg",
+            "stylepic_multi_ref/style3/3.jpeg",
+            "stylepic_multi_ref/style3/4.jpeg",
+            "stylepic_multi_ref/style3/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A campfire surrounded by tents.",
+        "style_path": [
+            "stylepic_multi_ref/style4/0.jpeg",
+            "stylepic_multi_ref/style4/1.jpeg",
+            "stylepic_multi_ref/style4/2.jpeg",
+            "stylepic_multi_ref/style4/3.jpeg",
+            "stylepic_multi_ref/style4/4.jpeg",
+            "stylepic_multi_ref/style4/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A campfire surrounded by tents.",
+        "style_path": [
+            "stylepic_multi_ref/style5/0.jpeg",
+            "stylepic_multi_ref/style5/1.jpeg",
+            "stylepic_multi_ref/style5/2.jpeg",
+            "stylepic_multi_ref/style5/3.jpeg",
+            "stylepic_multi_ref/style5/4.jpeg",
+            "stylepic_multi_ref/style5/5.jpeg",
+            "stylepic_multi_ref/style5/6.jpeg"
+        ]
+    },
+    {
+        "prompt": "A hot air balloon floating in the sky.",
+        "style_path": [
+            "stylepic_multi_ref/style1/0.jpeg",
+            "stylepic_multi_ref/style1/1.jpeg",
+            "stylepic_multi_ref/style1/2.jpeg",
+            "stylepic_multi_ref/style1/3.jpeg",
+            "stylepic_multi_ref/style1/4.jpeg",
+            "stylepic_multi_ref/style1/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A hot air balloon floating in the sky.",
+        "style_path": [
+            "stylepic_multi_ref/style2/0.jpeg",
+            "stylepic_multi_ref/style2/1.jpeg",
+            "stylepic_multi_ref/style2/2.jpeg",
+            "stylepic_multi_ref/style2/3.jpeg",
+            "stylepic_multi_ref/style2/4.jpeg"
+        ]
+    },
+    {
+        "prompt": "A hot air balloon floating in the sky.",
+        "style_path": [
+            "stylepic_multi_ref/style3/0.jpeg",
+            "stylepic_multi_ref/style3/1.jpeg",
+            "stylepic_multi_ref/style3/2.jpeg",
+            "stylepic_multi_ref/style3/3.jpeg",
+            "stylepic_multi_ref/style3/4.jpeg",
+            "stylepic_multi_ref/style3/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A hot air balloon floating in the sky.",
+        "style_path": [
+            "stylepic_multi_ref/style4/0.jpeg",
+            "stylepic_multi_ref/style4/1.jpeg",
+            "stylepic_multi_ref/style4/2.jpeg",
+            "stylepic_multi_ref/style4/3.jpeg",
+            "stylepic_multi_ref/style4/4.jpeg",
+            "stylepic_multi_ref/style4/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A hot air balloon floating in the sky.",
+        "style_path": [
+            "stylepic_multi_ref/style5/0.jpeg",
+            "stylepic_multi_ref/style5/1.jpeg",
+            "stylepic_multi_ref/style5/2.jpeg",
+            "stylepic_multi_ref/style5/3.jpeg",
+            "stylepic_multi_ref/style5/4.jpeg",
+            "stylepic_multi_ref/style5/5.jpeg",
+            "stylepic_multi_ref/style5/6.jpeg"
+        ]
+    },
+    {
+        "prompt": "A wooden sailboat docked in a harbor.",
+        "style_path": [
+            "stylepic_multi_ref/style1/0.jpeg",
+            "stylepic_multi_ref/style1/1.jpeg",
+            "stylepic_multi_ref/style1/2.jpeg",
+            "stylepic_multi_ref/style1/3.jpeg",
+            "stylepic_multi_ref/style1/4.jpeg",
+            "stylepic_multi_ref/style1/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A wooden sailboat docked in a harbor.",
+        "style_path": [
+            "stylepic_multi_ref/style2/0.jpeg",
+            "stylepic_multi_ref/style2/1.jpeg",
+            "stylepic_multi_ref/style2/2.jpeg",
+            "stylepic_multi_ref/style2/3.jpeg",
+            "stylepic_multi_ref/style2/4.jpeg"
+        ]
+    },
+    {
+        "prompt": "A wooden sailboat docked in a harbor.",
+        "style_path": [
+            "stylepic_multi_ref/style3/0.jpeg",
+            "stylepic_multi_ref/style3/1.jpeg",
+            "stylepic_multi_ref/style3/2.jpeg",
+            "stylepic_multi_ref/style3/3.jpeg",
+            "stylepic_multi_ref/style3/4.jpeg",
+            "stylepic_multi_ref/style3/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A wooden sailboat docked in a harbor.",
+        "style_path": [
+            "stylepic_multi_ref/style4/0.jpeg",
+            "stylepic_multi_ref/style4/1.jpeg",
+            "stylepic_multi_ref/style4/2.jpeg",
+            "stylepic_multi_ref/style4/3.jpeg",
+            "stylepic_multi_ref/style4/4.jpeg",
+            "stylepic_multi_ref/style4/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A wooden sailboat docked in a harbor.",
+        "style_path": [
+            "stylepic_multi_ref/style5/0.jpeg",
+            "stylepic_multi_ref/style5/1.jpeg",
+            "stylepic_multi_ref/style5/2.jpeg",
+            "stylepic_multi_ref/style5/3.jpeg",
+            "stylepic_multi_ref/style5/4.jpeg",
+            "stylepic_multi_ref/style5/5.jpeg",
+            "stylepic_multi_ref/style5/6.jpeg"
+        ]
+    },
+    {
+        "prompt": "A river flowing gently under a bridge.",
+        "style_path": [
+            "stylepic_multi_ref/style1/0.jpeg",
+            "stylepic_multi_ref/style1/1.jpeg",
+            "stylepic_multi_ref/style1/2.jpeg",
+            "stylepic_multi_ref/style1/3.jpeg",
+            "stylepic_multi_ref/style1/4.jpeg",
+            "stylepic_multi_ref/style1/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A river flowing gently under a bridge.",
+        "style_path": [
+            "stylepic_multi_ref/style2/0.jpeg",
+            "stylepic_multi_ref/style2/1.jpeg",
+            "stylepic_multi_ref/style2/2.jpeg",
+            "stylepic_multi_ref/style2/3.jpeg",
+            "stylepic_multi_ref/style2/4.jpeg"
+        ]
+    },
+    {
+        "prompt": "A river flowing gently under a bridge.",
+        "style_path": [
+            "stylepic_multi_ref/style3/0.jpeg",
+            "stylepic_multi_ref/style3/1.jpeg",
+            "stylepic_multi_ref/style3/2.jpeg",
+            "stylepic_multi_ref/style3/3.jpeg",
+            "stylepic_multi_ref/style3/4.jpeg",
+            "stylepic_multi_ref/style3/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A river flowing gently under a bridge.",
+        "style_path": [
+            "stylepic_multi_ref/style4/0.jpeg",
+            "stylepic_multi_ref/style4/1.jpeg",
+            "stylepic_multi_ref/style4/2.jpeg",
+            "stylepic_multi_ref/style4/3.jpeg",
+            "stylepic_multi_ref/style4/4.jpeg",
+            "stylepic_multi_ref/style4/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A river flowing gently under a bridge.",
+        "style_path": [
+            "stylepic_multi_ref/style5/0.jpeg",
+            "stylepic_multi_ref/style5/1.jpeg",
+            "stylepic_multi_ref/style5/2.jpeg",
+            "stylepic_multi_ref/style5/3.jpeg",
+            "stylepic_multi_ref/style5/4.jpeg",
+            "stylepic_multi_ref/style5/5.jpeg",
+            "stylepic_multi_ref/style5/6.jpeg"
+        ]
+    },
+    {
+        "prompt": "A field of sunflowers on a sunny day.",
+        "style_path": [
+            "stylepic_multi_ref/style1/0.jpeg",
+            "stylepic_multi_ref/style1/1.jpeg",
+            "stylepic_multi_ref/style1/2.jpeg",
+            "stylepic_multi_ref/style1/3.jpeg",
+            "stylepic_multi_ref/style1/4.jpeg",
+            "stylepic_multi_ref/style1/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A field of sunflowers on a sunny day.",
+        "style_path": [
+            "stylepic_multi_ref/style2/0.jpeg",
+            "stylepic_multi_ref/style2/1.jpeg",
+            "stylepic_multi_ref/style2/2.jpeg",
+            "stylepic_multi_ref/style2/3.jpeg",
+            "stylepic_multi_ref/style2/4.jpeg"
+        ]
+    },
+    {
+        "prompt": "A field of sunflowers on a sunny day.",
+        "style_path": [
+            "stylepic_multi_ref/style3/0.jpeg",
+            "stylepic_multi_ref/style3/1.jpeg",
+            "stylepic_multi_ref/style3/2.jpeg",
+            "stylepic_multi_ref/style3/3.jpeg",
+            "stylepic_multi_ref/style3/4.jpeg",
+            "stylepic_multi_ref/style3/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A field of sunflowers on a sunny day.",
+        "style_path": [
+            "stylepic_multi_ref/style4/0.jpeg",
+            "stylepic_multi_ref/style4/1.jpeg",
+            "stylepic_multi_ref/style4/2.jpeg",
+            "stylepic_multi_ref/style4/3.jpeg",
+            "stylepic_multi_ref/style4/4.jpeg",
+            "stylepic_multi_ref/style4/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A field of sunflowers on a sunny day.",
+        "style_path": [
+            "stylepic_multi_ref/style5/0.jpeg",
+            "stylepic_multi_ref/style5/1.jpeg",
+            "stylepic_multi_ref/style5/2.jpeg",
+            "stylepic_multi_ref/style5/3.jpeg",
+            "stylepic_multi_ref/style5/4.jpeg",
+            "stylepic_multi_ref/style5/5.jpeg",
+            "stylepic_multi_ref/style5/6.jpeg"
+        ]
+    },
+    {
+        "prompt": "A rocketship heading towards the moon.",
+        "style_path": [
+            "stylepic_multi_ref/style1/0.jpeg",
+            "stylepic_multi_ref/style1/1.jpeg",
+            "stylepic_multi_ref/style1/2.jpeg",
+            "stylepic_multi_ref/style1/3.jpeg",
+            "stylepic_multi_ref/style1/4.jpeg",
+            "stylepic_multi_ref/style1/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A rocketship heading towards the moon.",
+        "style_path": [
+            "stylepic_multi_ref/style2/0.jpeg",
+            "stylepic_multi_ref/style2/1.jpeg",
+            "stylepic_multi_ref/style2/2.jpeg",
+            "stylepic_multi_ref/style2/3.jpeg",
+            "stylepic_multi_ref/style2/4.jpeg"
+        ]
+    },
+    {
+        "prompt": "A rocketship heading towards the moon.",
+        "style_path": [
+            "stylepic_multi_ref/style3/0.jpeg",
+            "stylepic_multi_ref/style3/1.jpeg",
+            "stylepic_multi_ref/style3/2.jpeg",
+            "stylepic_multi_ref/style3/3.jpeg",
+            "stylepic_multi_ref/style3/4.jpeg",
+            "stylepic_multi_ref/style3/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A rocketship heading towards the moon.",
+        "style_path": [
+            "stylepic_multi_ref/style4/0.jpeg",
+            "stylepic_multi_ref/style4/1.jpeg",
+            "stylepic_multi_ref/style4/2.jpeg",
+            "stylepic_multi_ref/style4/3.jpeg",
+            "stylepic_multi_ref/style4/4.jpeg",
+            "stylepic_multi_ref/style4/5.jpeg"
+        ]
+    },
+    {
+        "prompt": "A rocketship heading towards the moon.",
+        "style_path": [
+            "stylepic_multi_ref/style5/0.jpeg",
+            "stylepic_multi_ref/style5/1.jpeg",
+            "stylepic_multi_ref/style5/2.jpeg",
+            "stylepic_multi_ref/style5/3.jpeg",
+            "stylepic_multi_ref/style5/4.jpeg",
+            "stylepic_multi_ref/style5/5.jpeg",
+            "stylepic_multi_ref/style5/6.jpeg"
+        ]
+    }
+]
