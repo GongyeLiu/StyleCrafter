@@ -1,2 +1,2 @@
 https://huggingface.co/liuhuohuo/StyleCrafter/blob/main/adapter_v1.pth
-https://huggingface.co/liuhuohuo/StyleCrafter/blob/main/temporal_v1.pth
+https://huggingface.co/liuhuohuo/StyleCrafter/blob/main/temporal_v1_1.pth
